@@ -1,0 +1,2705 @@
+"","dir","region","text","discRole","evBasis","antPres","antText","antEmbed","antMod","antNeg","antSubj","emb","embTense","embSubj","comText","comMod","comNeg","comSubj","subjPred","subjPredType","ovExp","ovExpExp","ovExpInt","target","fullText","Speaker","F0","Start","End","Duration"
+"1","Popcast1",1,"oh","ContentSurprise","1stPerson","Present","it's an ongoing bit",FALSE,"None",FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"oh","JC1: the best drum. 
+CG: What is that from? 
+JC2: Bi- {LG} Jon is convinced— 
+JC1: {LG} It's an ongoing bit. 
+CG: <<oh>> {LG} 
+JC2: You missed the Popcast. 
+JC1: In twenty nine- 
+JC2: The Billie Eilish cast. 
+JC1: Wait, first of all, where have you been during twenty nineteen, when I've identified Billie Eilish as primarily in the -- in the musical tradition of Tony 
+
+","CG",200.0982282,98.39353018,98.8507061,457.1759206
+"2","Popcast1",2,"wait","NotParticle","1stPerson",NA,NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"wait","JC1: the best drum. 
+CG: What is that from? 
+JC2: Bi- {LG} Jon is convinced— 
+JC1: {LG} It's an ongoing bit. 
+CG: Oh. {LG} 
+JC2: You missed the Popcast. 
+JC1: In twenty nine- 
+JC2: The Billie Eilish cast. 
+JC1: <<wait>> first of all, where have you been during twenty nineteen, when I've identified Billie Eilish as primarily in the -- in the musical tradition of Tony Bennett? 
+CG: Missed the entire 
+
+","JC1",NA,99.59,99.81,220
+"3","Popcast1",3,NA,"ContentSurprise","1stPerson","Present","missed the entire thing",FALSE,"None",FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"oh","JC1: where have you been during twenty nineteen, when I've identified Billie Eilish as primarily in the -- in the musical tradition of Tony Bennett? 
+CG: Missed the entire thing. 
+JC2: {LG} 
+JC1: <<oh>> my gosh. 
+JC2: Cause she never would have let you get that in print. 
+CG: Yep! 
+JC2: You kept that one only for the airwaves. 
+JC1: That's true, it's l- -- it's like, it used to be things that were only online and not in print, and now there's things that are 
+
+","JC1",137.3996504,110.65,110.8777175,227.7174554
+"4","Popcast1",4,"yep","ContentAgreement","1stPerson","Present","she never would have let you get that in print",TRUE,"Counterfactual",TRUE,NA,"cause",NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"yep","JC1: I've identified Billie Eilish as primarily in the -- in the musical tradition of Tony Bennett? 
+CG: Missed the entire thing. 
+JC2: {LG} 
+JC1: Oh my gosh. 
+JC2: Cause she never would have let you get that in print. 
+CG: <<yep>> 
+JC2: You kept that one only for the airwaves. 
+JC1: That's true, it's l- -- it's like, it used to be things that were only online and not in print, and now there's things that are only audio, not even online. 
+CG: {LG} I shouldn't multitask 
+
+","CG",224.2952677,113.5179008,113.8462346,328.3338498
+"5","Popcast1",5,"that's true","ContentAgreement","OwnKnowledge","Present","you kept that one only for the airwaves",FALSE,"None",FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"true","JC1: as primarily in the -- in the musical tradition of Tony Bennett? 
+CG: Missed the entire thing. 
+JC2: {LG} 
+JC1: Oh my gosh. 
+JC2: Cause she never would have let you get that in print. 
+CG: Yep! 
+JC2: You kept that one only for the airwaves. 
+JC1: That's <<true>> it's l- -- it's like, it used to be things that were only online and not in print, and now there's things that are only audio, not even online. 
+CG: {LG} I shouldn't multitask when I listen to the Popcast, evidently. 
+JC2: Jon 
+
+","JC1",101.9519735,115.47,115.8,330
+"6","Popcast1",6,"well","Well","1stPerson","Present","jon thinks that billie eilish is a very traditional songwriter",FALSE,"Belief",FALSE,FALSE,NA,NA,NA,NA,"None",FALSE,TRUE,"traditional","PPT",NA,NA,NA,"well","JC1: in print, and now there's things that are only audio, not even online. 
+CG: {LG} I shouldn't multitask when I listen to the Popcast, evidently. 
+JC2: Jon thinks that Billie Eilish is a very traditional songwriter. 
+JC1: <<well>> low-key, Finneas is a very traditional s- 
+JC2: Are you giving Finneas credit for Billie Eilish's songwriting? 
+JC1: I'm saying that Finneas's contributions help to ground Billie Eilish in a certain 
+
+","JC1",104.3829286,129.55,129.84,290
+"7","Popcast1",7,"wow","BehaviorSurprise","1stPerson",NA,"tony bennett tradition",FALSE,"None",FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"wow","JC2: Finneas credit for Billie Eilish's songwriting? 
+JC1: I'm saying that Finneas's contributions help to ground Billie Eilish in a certain traditional sense. 
+JC2: Tony Bennett tradition. 
+CG: <<wow>> 
+JC1: Yes, I think t- -- I think Billy Eilish is very traditional. Anyway, we're talking about Billie Eilish because we're here to talk about the twenty nineteen albums of the year and songs of the year. Jon Parales is here, chief pop critic of the New York Times. 
+
+","CG",138.5487859,142.559,142.579,20
+"8","Popcast1",8,NA,NA,"1stPerson",NA,NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"yes","JC2: Finneas credit for Billie Eilish's songwriting? 
+JC1: I'm saying that Finneas's contributions help to ground Billie Eilish in a certain traditional sense. 
+JC2: Tony Bennett tradition. 
+CG: Wow. 
+JC1: <<yes>> I think t- -- I think Billy Eilish is very traditional. Anyway, we're talking about Billie Eilish because we're here to talk about the twenty nineteen albums of the year and songs of the year. Jon Parales is here, chief pop critic of the New York Times. 
+
+","JC1",NA,142.59,142.89,300
+"9","Popcast1",9,"no",NA,"1stPerson","Present",NA,TRUE,NA,FALSE,FALSE,"thought","Past","1st",NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"no","JC1: Billie Eilish: 'When We All Fall Asleep, Where Do We Go?', 'Bad Guy' from that album. Billie Eilish. J P, we'll get back to it. Caryn Ganz is here. 
+CG: I thought you were expecting Jon to answer the question. 
+JC1: <<no>> I dunno, do you have the answer? 
+JC2: The question posed by the album title? 
+CG: {LG} Yes, yeah, yeah. 
+JC1: Caryn Ganz, pop music editor in the New York Times, do you have the answer to the question? 
+CG: Not yet. Give -- give me however long this Popcast is. 
+JC1: Three hours. 
+CG: Yeah. 
+
+","JC1",126.8197107,166.36,166.99,630
+"10","Popcast1",10,"yes","Answer","1stPerson","Present","the question posed by the album title",FALSE,"None",FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"yes","JC1: 'Bad Guy' from that album. Billie Eilish. J P, we'll get back to it. Caryn Ganz is here. 
+CG: I thought you were expecting Jon to answer the question. 
+JC1: No. I dunno, do you have the answer? 
+JC2: The question posed by the album title? 
+CG: {LG} <<yes>> yeah, yeah. 
+JC1: Caryn Ganz, pop music editor in the New York Times, do you have the answer to the question? 
+CG: Not yet. Give -- give me however long this Popcast is. 
+JC1: Three hours. 
+CG: Yeah. 
+JC1: Joe Coscarelli, pop music reporter at the New York 
+
+","CG",NA,169.07,169.29,220
+"11","Popcast1",11,"yeah","Answer","1stPerson","Present","the question posed by the album title",FALSE,"None",FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"yeah","JC1: 'Bad Guy' from that album. Billie Eilish. J P, we'll get back to it. Caryn Ganz is here. 
+CG: I thought you were expecting Jon to answer the question. 
+JC1: No. I dunno, do you have the answer? 
+JC2: The question posed by the album title? 
+CG: {LG} Yes, <<yeah>> yeah. 
+JC1: Caryn Ganz, pop music editor in the New York Times, do you have the answer to the question? 
+CG: Not yet. Give -- give me however long this Popcast is. 
+JC1: Three hours. 
+CG: Yeah. 
+JC1: Joe Coscarelli, pop music reporter at the New York Times. 
+
+","CG",93.34183793,169.44,169.52,80
+"12","Popcast1",12,"yeah","Answer","1stPerson","Present","the question posed by the album title",FALSE,"None",FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"yeah","JC1: 'Bad Guy' from that album. Billie Eilish. J P, we'll get back to it. Caryn Ganz is here. 
+CG: I thought you were expecting Jon to answer the question. 
+JC1: No. I dunno, do you have the answer? 
+JC2: The question posed by the album title? 
+CG: {LG} Yes, yeah, <<yeah>> 
+JC1: Caryn Ganz, pop music editor in the New York Times, do you have the answer to the question? 
+CG: Not yet. Give -- give me however long this Popcast is. 
+JC1: Three hours. 
+CG: Yeah. 
+JC1: Joe Coscarelli, pop music reporter at the New York Times. 
+
+","CG",203.6866538,169.52,169.85,330
+"13","Popcast1",13,"yeah","BehaviorAgreement",NA,NA,NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"yeah","JC1: No. I dunno, do you have the answer? 
+JC2: The question posed by the album title? 
+CG: {LG} Yes, yeah, yeah. 
+JC1: Caryn Ganz, pop music editor in the New York Times, do you have the answer to the question? 
+CG: Not yet. Give -- give me however long this Popcast is. 
+JC1: Three hours. 
+CG: <<yeah>> 
+JC1: Joe Coscarelli, pop music reporter at the New York Times. 
+JC2: Little sniffly. 
+JC1: Young -- young sniffle. 
+CG: {LG} Lil' sniffly. 
+JC2: Young sniffles. 
+JC1: Young sniffles, um. Where do we go, when we all fall asleep? 
+
+","CG",NA,176.9,177.12,220
+"14","Popcast1",14,"yeah",NA,"1stPerson","Present",NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"yeah","JC1: um. Where do we go, when we all fall asleep? 
+JC2: I don't know about you guys, but I go to a place where I never remember anything that happens, so- 
+JC1: Is that t- 
+JC2: <<yeah>> I hardly ever- 
+JC1: Do you not dream? 
+JC2: I only dream if I'm on weird, like, prescription drugs, which I try not to be, but like- 
+JC1: Wow. 
+JC2: You know, I got my wisdom teeth out, I had some really weird dreams- 
+JC1: You're talkin' 'bout best albums 
+
+","JC2",145.4782753,194.65,194.89,240
+"15","Popcast1",15,"wow","ContentSurprise","1stPerson","Present","i only dream if i'm on weird like prescription drugs",FALSE,"None",FALSE,NA,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"wow","JC2: a place where I never remember anything that happens, so- 
+JC1: Is that t- 
+JC2: Yeah, I hardly ever- 
+JC1: Do you not dream? 
+JC2: I only dream if I'm on weird, like, prescription drugs, which I try not to be, but like- 
+JC1: <<wow>> 
+JC2: You know, I got my wisdom teeth out, I had some really weird dreams- 
+JC1: You're talkin' 'bout best albums of twenty nineteen, the best album of twenty nineteen was talking to Joe about getting his wisdom teeth pulled. 
+
+","JC1",NA,200.52,200.54,20
+"16","Popcast1",16,"yeah","BehaviorAgreement","1stPerson","Present","the best album of twenty nineteen was talking to joe about getting his wisdom teeth pulled",FALSE,"None",FALSE,TRUE,NA,NA,NA,NA,NA,FALSE,FALSE,"best","PPT",NA,NA,NA,"yeah","JC2: weird dreams- 
+JC1: You're talkin' 'bout best albums of twenty nineteen, the best album of twenty nineteen was talking to Joe about getting his wisdom teeth pulled. {LG} 
+CG: {LG} 
+JC2: <<yeah>> 
+JC1: That was a -- that was a real -- that was a roller coaster. 
+JC2: I had a lot of horrible dreams for like, ten days, probably. 
+JC1: I felt really bad, cause I think I- 
+JC2: Body horror. 
+JC1: I like, rather naively, like -- cause when I- 
+JC2: You were 
+
+","JC2",216.5108388,212.56,212.579,19
+"17","Popcast1",17,"yeah","Phatic",NA,"Quoted",NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"yeah","JC1: That was a -- that was a real -- that was a roller coaster. 
+JC2: I had a lot of horrible dreams for like, ten days, probably. 
+JC1: I felt really bad, cause I think I- 
+JC2: Body horror. 
+JC1: I like, rather naively, like -- cause when I- 
+JC2: You were like, <<yeah>> it's no big deal.' 
+JC1: Cause I -- when I had my wisdom teeth out, you know, ten or twelve years ago- 
+JC2: Yeah. 
+JC1: I literally like -- I went, I had 'em out, no one was there to pick me up, I got in -- I went to Junior's 
+
+","JC2",294.1307941,222.76,222.829,69
+"18","Popcast1",18,"no","NotParticle",NA,NA,NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"no","JC1: a -- that was a real -- that was a roller coaster. 
+JC2: I had a lot of horrible dreams for like, ten days, probably. 
+JC1: I felt really bad, cause I think I- 
+JC2: Body horror. 
+JC1: I like, rather naively, like -- cause when I- 
+JC2: You were like, 'Yeah, it's <<no>> big deal.' 
+JC1: Cause I -- when I had my wisdom teeth out, you know, ten or twelve years ago- 
+JC2: Yeah. 
+JC1: I literally like -- I went, I had 'em out, no one was there to pick me up, I got in -- I went to Junior's -- this was 
+
+","JC2",190.3232948,222.94,223.07,130
+"19","Popcast1",19,"yeah",NA,NA,NA,NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"yeah","JC2: dreams for like, ten days, probably. 
+JC1: I felt really bad, cause I think I- 
+JC2: Body horror. 
+JC1: I like, rather naively, like -- cause when I- 
+JC2: You were like, 'Yeah, it's no big deal.' 
+JC1: Cause I -- when I had my wisdom teeth out, you know, ten or twelve years ago- 
+JC2: <<yeah>> 
+JC1: I literally like -- I went, I had 'em out, no one was there to pick me up, I got in -- I went to Junior's -- this was -- this was at, um -- what's the building that's right by BAM? Uh, one Hanson 
+
+","JC2",NA,226.679,226.699,20
+"20","Popcast1",20,NA,"NotParticle",NA,NA,NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"no","JC1: I- 
+JC2: Body horror. 
+JC1: I like, rather naively, like -- cause when I- 
+JC2: You were like, 'Yeah, it's no big deal.' 
+JC1: Cause I -- when I had my wisdom teeth out, you know, ten or twelve years ago- 
+JC2: Yeah. 
+JC1: I literally like -- I went, I had 'em out, <<no>> one was there to pick me up, I got in -- I went to Junior's -- this was -- this was at, um -- what's the building that's right by BAM? Uh, one Hanson Place. 
+JC2: Yeah, yeah, yeah. 
+JC1: Walked to Junior's, got a cheesecake, 
+
+","JC1",116.9676717,229.71,229.99,280
+"21","Popcast1",21,"right","NotParticle",NA,NA,NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"right","JC1: know, ten or twelve years ago- 
+JC2: Yeah. 
+JC1: I literally like -- I went, I had 'em out, no one was there to pick me up, I got in -- I went to Junior's -- this was -- this was at, um -- what's the building that's <<right>> by BAM? Uh, one Hanson Place. 
+JC2: Yeah, yeah, yeah. 
+JC1: Walked to Junior's, got a cheesecake, hailed a cab, went home, had a great night. And that was that! Like, that was good. 
+JC2: This was not my experience. 
+JC1: I'm so sorry. 
+
+","JC1",104.2823543,235.1,235.26,160
+"22","Popcast1",22,"yeah","ContentAgreement","OwnKnowledge","Present",NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"yeah","JC1: I literally like -- I went, I had 'em out, no one was there to pick me up, I got in -- I went to Junior's -- this was -- this was at, um -- what's the building that's right by BAM? Uh, one Hanson Place. 
+JC2: <<yeah>> yeah, yeah. 
+JC1: Walked to Junior's, got a cheesecake, hailed a cab, went home, had a great night. And that was that! Like, that was good. 
+JC2: This was not my experience. 
+JC1: I'm so sorry. 
+JC2: My experience was the Billie Eilish 
+
+","JC2",94.5239217,236.87,237.05,180
+"23","Popcast1",23,"yeah","ContentAgreement","OwnKnowledge","Present",NA,NA,"None",FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"yeah","JC1: literally like -- I went, I had 'em out, no one was there to pick me up, I got in -- I went to Junior's -- this was -- this was at, um -- what's the building that's right by BAM? Uh, one Hanson Place. 
+JC2: Yeah, <<yeah>> yeah. 
+JC1: Walked to Junior's, got a cheesecake, hailed a cab, went home, had a great night. And that was that! Like, that was good. 
+JC2: This was not my experience. 
+JC1: I'm so sorry. 
+JC2: My experience was the Billie Eilish album. 
+
+","JC2",93.56980208,237.05,237.27,220
+"24","Popcast1",24,"yeah","ContentAgreement","OwnKnowledge","Present",NA,NA,"None",FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"yeah","JC1: literally like -- I went, I had 'em out, no one was there to pick me up, I got in -- I went to Junior's -- this was -- this was at, um -- what's the building that's right by BAM? Uh, one Hanson Place. 
+JC2: Yeah, yeah, <<yeah>> 
+JC1: Walked to Junior's, got a cheesecake, hailed a cab, went home, had a great night. And that was that! Like, that was good. 
+JC2: This was not my experience. 
+JC1: I'm so sorry. 
+JC2: My experience was the Billie Eilish album. 
+CG: {LG} 
+
+","JC2",75.41906778,237.27,237.67,400
+"25","Popcast1",25,"well","Well","OwnKnowledge","Present","the sonics of the billie eilish album",FALSE,"None",FALSE,FALSE,NA,NA,NA,"there is a dental drill on","None",FALSE,FALSE,NA,NA,NA,NA,NA,"well","JC1: went home, had a great night. And that was that! Like, that was good. 
+JC2: This was not my experience. 
+JC1: I'm so sorry. 
+JC2: My experience was the Billie Eilish album. 
+CG: {LG} 
+JC2: {LG} 
+JP: {LG} 
+JC2: The sonics of the Billie Eilish album. 
+CG: <<well>> there is a dental drill on- 
+JC2: Specifically the dental drill. 
+CG: Yeah, 'Bury A Friend'. 
+JC1: Mall goth back. 
+JC2: {LG} 
+JC1: Uh, so, J P, 'When We All Fall Asleep, Where Do We Go?', the great traditional- 
+JP: {LG} 
+CG: {LG} 
+
+","CG",230.0948512,251.347,251.424,77
+"26","Popcast1",26,"yeah","Phatic","OwnKnowledge",NA,NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"yeah","JC2: not my experience. 
+JC1: I'm so sorry. 
+JC2: My experience was the Billie Eilish album. 
+CG: {LG} 
+JC2: {LG} 
+JP: {LG} 
+JC2: The sonics of the Billie Eilish album. 
+CG: Well, there is a dental drill on- 
+JC2: Specifically the dental drill. 
+CG: <<yeah>> 'Bury A Friend'. 
+JC1: Mall goth back. 
+JC2: {LG} 
+JC1: Uh, so, J P, 'When We All Fall Asleep, Where Do We Go?', the great traditional- 
+JP: {LG} 
+CG: {LG} 
+JC1: The Grammy -- the Grammy for best traditional pop album, 
+
+","CG",113.8066603,254.039,254.059,20
+"27","Popcast1",27,"yeah","BehaviorAgreement","1stPerson","Present",NA,FALSE,"None",FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"yeah","JC1: J P, 'When We All Fall Asleep, Where Do We Go?', the great traditional- 
+JP: {LG} 
+CG: {LG} 
+JC1: The Grammy -- the Grammy for best traditional pop album, tell me about- 
+JP: What do you have against verses and choruses? 
+JC1: I don't have anything against it! 
+CG: <<yeah>> 
+JC1: Can't I just be descriptive? 
+JP: {LG} 
+CG: {LG} 
+JC1: Not every description is a judgment. A good critic knows that. 
+CG: Wow. 
+JC1: J P- 
+JP: I thought -- I thought a good critic knows the opposite. 
+
+","CG",88.240265,267.009,267.029,20
+"28","Popcast1",28,"wow","BehaviorSurprise","1stPerson","Present",NA,FALSE,"Belief",FALSE,TRUE,NA,NA,NA,NA,NA,FALSE,FALSE,"good","PPT",NA,NA,NA,"wow","JC1: tell me about- 
+JP: What do you have against verses and choruses? 
+JC1: I don't have anything against it! 
+CG: Yeah. 
+JC1: Can't I just be descriptive? 
+JP: {LG} 
+CG: {LG} 
+JC1: Not every description is a judgment. A good critic knows that. 
+CG: <<wow>> 
+JC1: J P- 
+JP: I thought -- I thought a good critic knows the opposite. Oh! {NI} Anyway, I p- -- I put her on number one because everybody in the known universe is trying 
+
+","CG",153.6443653,274.88,275.35,470
+"29","Popcast1",29,"oh","BehaviorSurprise","1stPerson","Present","i thought a good critic knows the opposite",FALSE,"Belief",FALSE,TRUE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"oh","JC1: Can't I just be descriptive? 
+JP: {LG} 
+CG: {LG} 
+JC1: Not every description is a judgment. A good critic knows that. 
+CG: Wow. 
+JC1: J P- 
+JP: I thought -- I thought a good critic knows the opposite. <<oh>> {NI} Anyway, I p- -- I put her on number one because everybody in the known universe is trying to imitate her, particularly at major labels, they're all looking for the next Billie Eilish. 
+JC2: In sound, in business, in- -- r- -- in everything, really. 
+JP: In everything. 
+CG: Physical aesthetic. 
+JC1: They were looking 
+
+","JP",188.938008,277.51,279.29,1780
+"30","Popcast1",30,"yes","ContentAgreement","1stPerson","Present","you don't look for the next but that's another story",FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"yes","JC1: the next Taylor and it never happened, just F Y I. 
+JP: And they were looking for the next Adele too. {LG} You don't look for the next, but that's another story. 
+JC1: <<yes>> 
+
+","JC1",78.71450342,300.799,301.129,330
+"31","Popcast2",1,"oh",NA,"1stPerson","Present","she's exploring {ps} all kinds of {ps} dark and twisted fantasies in a beautiful way",FALSE,"None",FALSE,TRUE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,"PPT",NA,NA,NA,"oh","JP: whisper. She's exploring power, she's exploring fear. 
+JC1: {LG} 
+JP: She's exploring {PS} all kinds of {PS} dark and twisted fantasies in a beautiful way. 
+JC1: <<oh>> 
+JP: Oh. 
+JC1: Really tying the decade together there. 
+JP: [[Mhm]] yeah. 
+JC1: Stitchin' it up. 
+JP: But also -- and -- I just like the crazy things they do in sound- 
+JC1: Yeah. 
+- JP: which is to make, little creepy sounds 
+
+","JC1",162.8343458,20,20.57,570
+"32","Popcast2",2,"oh",NA,"Other","Present",NA,FALSE,"None",FALSE,NA,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"oh","JP: She's exploring power, she's exploring fear. 
+JC1: {LG} 
+JP: She's exploring {PS} all kinds of {PS} dark and twisted fantasies in a beautiful way. 
+JC1: Oh. 
+JP: <<oh>> 
+JC1: Really tying the decade together there. 
+JP: [[Mhm]] yeah. 
+JC1: Stitchin' it up. 
+JP: But also -- and -- I just like the crazy things they do in sound- 
+JC1: Yeah. 
+- JP: which is to make, little creepy sounds 
+
+","JP",201.926656,20.63,20.779,149
+"33","Popcast2",3,"mhm","ContentAgreement","1stPerson","Present","really tying the decade together there",FALSE,"None",FALSE,NA,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"mhm","JP: fear. 
+JC1: {LG} 
+JP: She's exploring {PS} all kinds of {PS} dark and twisted fantasies in a beautiful way. 
+JC1: Oh. 
+JP: Oh. 
+JC1: Really tying the decade together there. 
+JP: <<mhm>> yeah. 
+JC1: Stitchin' it up. 
+JP: But also -- and -- I just like the crazy things they do in sound- 
+JC1: Yeah. 
+- JP: which is to make, little creepy sounds much more important than {LG} 
+
+","JP",115.8094966,22.9,23.02,120
+"34","Popcast2",4,"yeah","ContentAgreement","1stPerson","Present","really tying the decade together there",FALSE,"None",FALSE,TRUE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"yeah","JP: fear. 
+JC1: {LG} 
+JP: She's exploring {PS} all kinds of {PS} dark and twisted fantasies in a beautiful way. 
+JC1: Oh. 
+JP: Oh. 
+JC1: Really tying the decade together there. 
+JP: [[Mhm]] <<yeah>> 
+JC1: Stitchin' it up. 
+JP: But also -- and -- I just like the crazy things they do in sound- 
+JC1: Yeah. 
+- JP: which is to make, little creepy sounds much more important than {LG} 
+
+","JP",NA,23.03,23.05,20
+"35","Popcast2",5,"yeah",NA,"1stPerson",NA,NA,NA,NA,FALSE,NA,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"yeah","JP: twisted fantasies in a beautiful way. 
+JC1: Oh. 
+JP: Oh. 
+JC1: Really tying the decade together there. 
+JP: [[Mhm]] yeah. 
+JC1: Stitchin' it up. 
+JP: But also -- and -- I just like the crazy things they do in sound- 
+JC1: <<yeah>> 
+- JP: which is to make, little creepy sounds much more important than {LG} -- than the bass and drums. The whole sort of Alice in Wonderland inside-out 
+
+","JC1",135.7433752,27.46,27.48,20
+"36","Popcast2",6,"yeah","ContentAgreement","1stPerson","Present","the whole sort of alice in wonderland insideout sound of it is really fascinating to me",FALSE,"None",FALSE,TRUE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,"PPT",NA,NA,NA,"yeah","- JP: much more important than {LG} -- than the bass and drums. The whole sort of Alice in Wonderland inside-out sound of it, is really fascinating to me. 
+JC1: <<yeah>> I would agree, like to me the- composition and the texture of this record feels very signature and it feels like a- {BR} thing people that people will refer to for the next five years. 
+
+","JC1",163.8326669,41.1,41.38,280
+"37","Popcast2",7,NA,NA,"1stPerson",NA,NA,FALSE,NA,FALSE,NA,NA,NA,NA,NA,NA,FALSE,NA,NA,NA,NA,NA,NA,"agree","- JP: important than {LG} -- than the bass and drums. The whole sort of Alice in Wonderland inside-out sound of it, is really fascinating to me. 
+JC1: Yeah, I would <<agree>> like to me the- composition and the texture of this record feels very signature and it feels like a- {BR} thing people that people will refer to for the next five years. 
+JP: Well, people are already stealing 
+
+","JC1",131.4760163,41.95,42.52,570
+"38","Popcast2",8,"well","Well","Other",NA,NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"well","JC1: would agree, like to me the- composition and the texture of this record feels very signature and it feels like a- {BR} thing people that people will refer to for the next five years. 
+JP: <<well>> people are already stealing [[from her]]. 
+JC1: Yeah, but- also we know this is also in least in part borrowed from a lot of things that have been happening on SoundCloud for the past five years. {BR} so it's 
+
+","JP",259.3974511,51.62,51.69,70
+"39","Popcast2",9,"yeah","ContentAgreement","OwnKnowledge","Present",NA,NA,"None",FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"yeah","JC1: like to me the- composition and the texture of this record feels very signature and it feels like a- {BR} thing people that people will refer to for the next five years. 
+JP: Well, people are already stealing [[from her]]. 
+JC1: <<yeah>> but- also we know this is also in least in part borrowed from a lot of things that have been happening on SoundCloud for the past five years. {BR} so it's interesting to see Billie who 
+
+","JC1",106.9575153,52.629,52.969,340
+"40","Popcast2",10,"interesting","NotParticle",NA,NA,NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"interesting","JP: people are already stealing [[from her]]. 
+JC1: Yeah, but- also we know this is also in least in part borrowed from a lot of things that have been happening on SoundCloud for the past five years. {BR} so it's <<interesting>> to see Billie who is- has become effectively a centrist pop-star but using to my year many reference points that come very explicitly 
+
+","JC1",NA,61.71,62.1,390
+"41","Popcast2",11,"right","NotParticle",NA,NA,NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"right","NA: That was “one thousand Gecs”, my number one album of the year. In my heart and in the New York Times. The look that Caryn is giving me <<right>> now. Caryn! Are you not on the Gecs train yet? 
+CG: No! I’m fine with them. 
+JC1: I- {LG} Yeah! 
+JC2: Yeah! You either hate it or- or- 
+JC1: yeah, yeah! 
+- JC2: or you’re a thousand Gecs 
+
+",NA,125.6844964,167.18,167.4,220
+"42","Popcast2",12,"no","Answer","1stPerson","Present",NA,FALSE,"None",NA,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"no","NA: my number one album of the year. In my heart and in the New York Times. The look that Caryn is giving me right now. Caryn! Are you not on the Gecs train yet? 
+CG: <<no>> I’m fine with them. 
+JC1: I- {LG} Yeah! 
+JC2: Yeah! You either hate it or- or- 
+JC1: yeah, yeah! 
+- JC2: or you’re a thousand Gecs up. 
+JC1: yeah- 
+JC2: You gotta go to the show. 
+JC1: Joe [[did we have a great time at the 
+
+","CG",373.1201697,170.47,170.49,20
+"43","Popcast2",13,"fine","NotParticle",NA,NA,NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"fine","NA: number one album of the year. In my heart and in the New York Times. The look that Caryn is giving me right now. Caryn! Are you not on the Gecs train yet? 
+CG: No! I’m <<fine>> with them. 
+JC1: I- {LG} Yeah! 
+JC2: Yeah! You either hate it or- or- 
+JC1: yeah, yeah! 
+- JC2: or you’re a thousand Gecs up. 
+JC1: yeah- 
+JC2: You gotta go to the show. 
+JC1: Joe [[did we have a great time at the show?]] 
+JC2: Yeah, 
+
+","CG",136.6701441,170.66,170.9,240
+"44","Popcast2",14,"yeah",NA,"1stPerson",NA,NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"yeah","NA: In my heart and in the New York Times. The look that Caryn is giving me right now. Caryn! Are you not on the Gecs train yet? 
+CG: No! I’m fine with them. 
+JC1: I- {LG} <<yeah>> 
+JC2: Yeah! You either hate it or- or- 
+JC1: yeah, yeah! 
+- JC2: or you’re a thousand Gecs up. 
+JC1: yeah- 
+JC2: You gotta go to the show. 
+JC1: Joe [[did we have a great time at the show?]] 
+JC2: Yeah, more than once. 
+JC1: Everybody I know at the show had a great time. 
+JC2: I 
+
+","JC1",134.0788234,173.16,173.46,300
+"45","Popcast2",15,"yeah","Phatic","1stPerson",NA,NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"yeah","NA: In my heart and in the New York Times. The look that Caryn is giving me right now. Caryn! Are you not on the Gecs train yet? 
+CG: No! I’m fine with them. 
+JC1: I- {LG} Yeah! 
+JC2: <<yeah>> You either hate it or- or- 
+JC1: yeah, yeah! 
+- JC2: or you’re a thousand Gecs up. 
+JC1: yeah- 
+JC2: You gotta go to the show. 
+JC1: Joe [[did we have a great time at the show?]] 
+JC2: Yeah, more than once. 
+JC1: Everybody I know at the show had a great time. 
+JC2: I think, 
+
+","JC2",180.6906871,173.46,173.69,230
+"46","Popcast2",16,"yeah","ContentAgreement","1stPerson","Present",NA,FALSE,NA,FALSE,NA,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"yeah","NA: The look that Caryn is giving me right now. Caryn! Are you not on the Gecs train yet? 
+CG: No! I’m fine with them. 
+JC1: I- {LG} Yeah! 
+JC2: Yeah! You either hate it or- or- 
+JC1: <<yeah>> yeah! 
+- JC2: or you’re a thousand Gecs up. 
+JC1: yeah- 
+JC2: You gotta go to the show. 
+JC1: Joe [[did we have a great time at the show?]] 
+JC2: Yeah, more than once. 
+JC1: Everybody I know at the show had a great time. 
+JC2: I think, you know when I see- 
+JC1: The shows? 
+
+","JC1",135.3895681,175.46,175.75,290
+"47","Popcast2",17,"yeah","ContentAgreement","1stPerson","Present",NA,FALSE,NA,FALSE,NA,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"yeah","NA: The look that Caryn is giving me right now. Caryn! Are you not on the Gecs train yet? 
+CG: No! I’m fine with them. 
+JC1: I- {LG} Yeah! 
+JC2: Yeah! You either hate it or- or- 
+JC1: yeah, <<yeah>> 
+- JC2: or you’re a thousand Gecs up. 
+JC1: yeah- 
+JC2: You gotta go to the show. 
+JC1: Joe [[did we have a great time at the show?]] 
+JC2: Yeah, more than once. 
+JC1: Everybody I know at the show had a great time. 
+JC2: I think, you know when I see- 
+JC1: The shows? 
+
+","JC1",113.8090992,175.75,175.95,200
+"48","Popcast2",18,"yeah","Answer","1stPerson","Present",NA,FALSE,"None",FALSE,TRUE,NA,NA,NA,NA,NA,FALSE,NA,"great","PPT",NA,NA,NA,"yeah","CG: fine with them. 
+JC1: I- {LG} Yeah! 
+JC2: Yeah! You either hate it or- or- 
+JC1: yeah, yeah! 
+- JC2: or you’re a thousand Gecs up. 
+JC1: yeah- 
+JC2: You gotta go to the show. 
+JC1: Joe [[did we have a great time at the show?]] 
+JC2: <<yeah>> more than once. 
+JC1: Everybody I know at the show had a great time. 
+JC2: I think, you know when I see- 
+JC1: The shows? 
+JC2: -people that we know, some people in this building tweeting their [[Anti-Gecs]] feelings. 
+
+","JC2",266.4074285,180.86,181.18,320
+"49","Popcast2",19,"no","ContentDisagreement","1stPerson","Present",NA,NA,NA,NA,TRUE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,"PPT",NA,NA,NA,"no","JC2: building tweeting their [[Anti-Gecs]] feelings. If you haven't been in a room with other people [[pogoing]], then I just don't think you’re really equipped- 
+JC1: First of all <<no>> no, first of all, I don't need to be in a room to know. I know. Number two! I have those people muted [[so]]... {LG} who can even -- who can even say who those people are. But yes! There 
+
+","JC1",NA,198.9,199,100
+"50","Popcast2",20,"no","ContentDisagreement","1stPerson","Present",NA,NA,NA,NA,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"no","JC2: tweeting their [[Anti-Gecs]] feelings. If you haven't been in a room with other people [[pogoing]], then I just don't think you’re really equipped- 
+JC1: First of all -- no <<no>> first of all, I don't need to be in a room to know. I know. Number two! I have those people muted [[so]]... {LG} who can even -- who can even say who those people are. But yes! There is some 
+
+","JC1",NA,199.1,199.489,389
+"51","Popcast2",21,"yes",NA,"1stPerson",NA,NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,NA,NA,NA,NA,NA,NA,"yes","JC1: all -- no no, first of all, I don't need to be in a room to know. I know. Number two! I have those people muted [[so]]... {LG} who can even -- who can even say who those people are. But <<yes>> There is some very visceral and physical about that experience and also kinda- lawless, I don't know if it's too strong a word but certainly we went to the NYU 
+
+","JC1",148.8537317,208.63,208.89,260
+"52","Popcast2",22,"right","ContentAgreement","1stPerson","Present",NA,NA,NA,TRUE,FALSE,NA,NA,NA,NA,NA,FALSE,NA,NA,NA,NA,NA,NA,"right","JC1: was lawless in the sense that the ceiling below the floor was crumbling. 
+JC2: As the show was happening. {BR} 
+JC1: And also lawless in the sense that I'm not convinced that they know how to put on a show. 
+JC2: <<right>> [] {LG} They got- better in between that and- that was what? Their second ever [[show]]. 
+JC1: Yes! But like not much. 
+JC2: Yeah not that much. 
+JC1: Yeah not much! and o- bu- that-that's kinda fun. Look! 
+
+","JC2",97.68624211,230.83,230.99,160
+"53","Popcast2",23,"yes",NA,"1stPerson","Present",NA,NA,"None",FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"yes","JC2: show was happening. {BR} 
+JC1: And also lawless in the sense that I'm not convinced that they know how to put on a show. 
+JC2: Right?! [] {LG} They got- better in between that and- that was what? Their second ever [[show]]. 
+JC1: <<yes>> But like not much. 
+JC2: Yeah not that much. 
+JC1: Yeah not much! and o- bu- that-that's kinda fun. Look! I feel like pop has become very stitched tight whether it's 
+
+","JC1",NA,235.65,235.68,30
+"54","Popcast2",24,"yeah","ContentAgreement","1stPerson","Present",NA,NA,"None",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"yeah","JC1: lawless in the sense that I'm not convinced that they know how to put on a show. 
+JC2: Right?! [] {LG} They got- better in between that and- that was what? Their second ever [[show]]. 
+JC1: Yes! But like not much. 
+JC2: <<yeah>> not that much. 
+JC1: Yeah not much! and o- bu- that-that's kinda fun. Look! I feel like pop has become very stitched tight whether it's [[Post-Drake pop]] or... Taylor 
+
+","JC2",NA,237.079,237.148,69
+"55","Popcast2",25,"yeah","ContentAgreement","1stPerson","Present",NA,NA,"None",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"yeah","JC1: lawless in the sense that I'm not convinced that they know how to put on a show. 
+JC2: Right?! [] {LG} They got- better in between that and- that was what? Their second ever [[show]]. 
+JC1: Yes! But like not much. 
+JC2: Yeah not that much. 
+JC1: <<yeah>> not much! and o- bu- that-that's kinda fun. Look! I feel like pop has become very stitched tight whether it's [[Post-Drake pop]] or... Taylor or... 
+
+","JC1",288.0280446,237.42,237.649,229
+"56","Popcast2",26,"yeah",NA,"1stPerson","Present",NA,NA,"None",FALSE,NA,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"yeah","JC1: sensibilities kinda core doing something that is so like- basically like shards, shards of things. And that's I- I- I have found it really gratifying this year and, J P! 
+JP: <<yeah>> I know, it was on both of our lists! I know, I was gonna say, this is the 
+CG: overlap. 
+JC1: I got in your he- -- I got in your head! Not quite! {LG} I love it! 
+JC2: I love it! {LG} What do you like about it J P? 
+JP: The 
+
+","JP",119.7245179,275.03,275.09,60
+"57","Popcast3",1,"well","Well","Other",NA,NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"well","JC1: stuck with me in some way, I'll just put on a Word document — singles, albums, whatever. And I'll start to loosely order them, very casually; just sort of be like, <<well>> this is in group one, this in group two, and I just kept putting things below -- {LG} 
+CG: They won by default. {LG} 
+JC1: Yeah, I just -- but 
+
+","JC1",109.3439623,23.03,23.13,100
+"58","Popcast3",2,"yeah","ContentAgreement","1stPerson","Present","they won by default",FALSE,"None",FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"yeah","JC1: very casually; just sort of be like, well this is in group one, this in group two, and I just kept putting things below -- {LG} 
+CG: They won by default. {LG} 
+JC1: <<yeah>> I just -- but I kept putting things below it and I could not find a thing to go above it. Now -- now that we are two weeks out from when the lists were put together, 
+
+","JC1",178.6975046,31.38964325,32.1321159,742.472656
+"59","Popcast3",3,"sure",NA,"1stPerson",NA,NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"sure","JC1: -- now that we are two weeks out from when the lists were put together, like do I look at my list and think, 'Maybe on a different day, it's NBA YoungBoy; maybe on a different day, it's Bad Bunny?' <<sure>> but I also think Hundred Gecs surprised me, refreshed me, was such a jolt this year, that -- the jolt of it being number one 
+
+","JC1",157.5066013,48.68747343,49.17,482.5265713
+"60","Popcast3",4,"no","Answer","1stPerson","Present","do you think that the only irony functioning in this system is potentially ironic rap",FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"no","JC2: times, it feels like they're doing ironic rap. 
+JC1: Do you think that the only irony functioning in this system is potentially ironic rap? 
+JC2: <<no>> 
+JC1: Right — so you think ironic rap amidst other ironic things. 
+JC2: Yeah, but that's the one that would potentially make me uncomfortable if I saw it in a different 
+
+","JC2",88.10384601,85.84942772,86.249,399.5722793
+"61","Popcast3",5,"right",NA,"1stPerson",NA,NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"right","JC2: they're doing ironic rap. 
+JC1: Do you think that the only irony functioning in this system is potentially ironic rap? 
+JC2: No. 
+JC1: <<right>> — so you think ironic rap amidst other ironic things. 
+JC2: Yeah, but that's the one that would potentially make me uncomfortable if I saw it in a different context; I think ultimately 
+
+","JC1",148.7895971,86.889,87.25188911,362.8891109
+"62","Popcast3",6,"yeah","ContentAgreement","1stPerson","Present",NA,NA,NA,FALSE,NA,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"yeah","JC1: irony functioning in this system is potentially ironic rap? 
+JC2: No. 
+JC1: Right — so you think ironic rap amidst other ironic things. 
+JC2: <<yeah>> but that's the one that would potentially make me uncomfortable if I saw it in a different context; I think ultimately they stay on the right side of it and they clearly love the music 
+
+","JC2",199.5287677,91.08,91.399,319
+"63","Popcast3",7,"right","NotParticle",NA,NA,NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"right","JC1: ironic rap amidst other ironic things. 
+JC2: Yeah, but that's the one that would potentially make me uncomfortable if I saw it in a different context; I think ultimately they stay on the <<right>> side of it and they clearly love the music that they're referencing and ultimately the joke is on them if anyone, but there's a little of that, is 
+
+","JC2",105.4051205,98.36,98.55517978,195.1797754
+"64","Popcast3",8,NA,NA,"1stPerson",NA,NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"sure","JC1: that was so off that it derailed the other nine hundred ninety nine, but I didn't find it disruptive. Rappers do ironic rapping. 
+JC2: I mean, that's for <<sure>> 
+JC1: Yeah, so 
+JC2: But you know, people have mentioned, say a group like Salem, with reference to One Hundred Gecs, and I never liked Salem. 
+JC1: First of all, who was -- who was it who tweeted 
+
+","JC2",NA,143.279,143.569,290
+"65","Popcast3",9,"yeah",NA,NA,NA,NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"yeah","JC1: so off that it derailed the other nine hundred ninety nine, but I didn't find it disruptive. Rappers do ironic rapping. 
+JC2: I mean, that's for sure. 
+JC1: <<yeah>> so 
+JC2: But you know, people have mentioned, say a group like Salem, with reference to One Hundred Gecs, and I never liked Salem. 
+JC1: First of all, who was -- who was it who tweeted 
+
+","JC1",105.9905457,143.59,143.96,370
+"66","Popcast3",10,"yeah",NA,"1stPerson",NA,NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"yeah","JC2: liked Salem. 
+JC1: First of all, who was -- who was it who tweeted that the people who like Hundred Gecs now are likely to feel the same way about One Hundred Gecs as the people who liked Salem back then 
+JC2: <<yeah>> maybe Willy Staley; if not, Willy was involved in the conversation, and Jeremy Gordon — you know, the Twitter people. 
+JC1: Sure, now, I liked Salem, and still mostly like Salem. 
+JC2: Okay, see, Salem 
+
+","JC2",120.2479835,160.7400985,160.9181513,178.0527954
+"67","Popcast3",11,"sure","ContentAgreement","1stPerson","Present",NA,NA,NA,FALSE,NA,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"sure","JC1: Gecs now are likely to feel the same way about One Hundred Gecs as the people who liked Salem back then 
+JC2: Yeah, maybe Willy Staley; if not, Willy was involved in the conversation, and Jeremy Gordon — you know, the Twitter people. 
+JC1: <<sure>> now, I liked Salem, and still mostly like Salem. 
+JC2: Okay, see, Salem always 
+JC1: rubbed you wrong 
+JC2: got on the wrong side of the line for me because of the vocal manipulations and the 
+
+","JC1",198.9887678,166.7045431,167.29,585.4568583
+"68","Popcast3",12,"okay",NA,NA,NA,NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"okay","JC1: Salem back then 
+JC2: Yeah, maybe Willy Staley; if not, Willy was involved in the conversation, and Jeremy Gordon — you know, the Twitter people. 
+JC1: Sure, now, I liked Salem, and still mostly like Salem. 
+JC2: <<okay>> see, Salem always 
+JC1: rubbed you wrong 
+JC2: got on the wrong side of the line for me because of the vocal manipulations and the weird three six fetishism. 
+JC1: That's interesting; I mean, the dirt-baggery 
+
+","JC2",NA,170.63,170.93,300
+"69","Popcast3",13,"wrong","NotParticle",NA,NA,NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"wrong","JC2: Willy was involved in the conversation, and Jeremy Gordon — you know, the Twitter people. 
+JC1: Sure, now, I liked Salem, and still mostly like Salem. 
+JC2: Okay, see, Salem always 
+JC1: rubbed you <<wrong>> 
+JC2: got on the wrong side of the line for me because of the vocal manipulations and the weird three six fetishism. 
+JC1: That's interesting; I mean, the dirt-baggery of Salem, I think 
+JC2: is real 
+JC1: is 
+
+","JC2",97.57165598,172.9159354,173.2502005,334.265133
+"70","Popcast3",14,"wrong","NotParticle",NA,NA,NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"wrong","JC2: involved in the conversation, and Jeremy Gordon — you know, the Twitter people. 
+JC1: Sure, now, I liked Salem, and still mostly like Salem. 
+JC2: Okay, see, Salem always 
+JC1: rubbed you wrong 
+JC2: got on the <<wrong>> side of the line for me because of the vocal manipulations and the weird three six fetishism. 
+JC1: That's interesting; I mean, the dirt-baggery of Salem, I think 
+JC2: is real 
+JC1: is 
+
+","JC1",97.51999311,172.92,173.26,340
+"71","Popcast3",15,NA,NA,"1stPerson",NA,NA,FALSE,NA,FALSE,NA,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"interesting","JC1: like Salem. 
+JC2: Okay, see, Salem always 
+JC1: rubbed you wrong 
+JC2: got on the wrong side of the line for me because of the vocal manipulations and the weird three six fetishism. 
+JC1: That's <<interesting>> I mean, the dirt-baggery of Salem, I think 
+JC2: is real 
+JC1: is honest {LG}. I do think the dirt-baggery is honest. And in a strange way, look, I don't know those guys, I don't know 
+
+","JC1",NA,179.8742967,180.249,374.7033106
+"72","Popcast3",16,"sure","NotParticle",NA,NA,NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"sure","JC1: honest {LG}. I do think the dirt-baggery is honest. And in a strange way, look, I don't know those guys, I don't know of people who know them 
+JC2: {LG} Thank god. {LG} 
+JC1: But I'm <<sure>> there are many personal reasons why that group did not survive past its initial flame up. But I also think like the, it's hard to replicate the pure 
+
+","JC1",172.704231,193.59,193.75,160
+"73","Popcast3",17,"sure",NA,"1stPerson","Present",NA,NA,"None",FALSE,NA,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"sure","JC1: group did not survive past its initial flame up. But I also think like the, it's hard to replicate the pure dirt-baggery of your dirtbag days 
+JC2: <<sure>> 
+JC1: you know? And I don't know what the grand scaled version of Salem sounds like. Oh, I do — Billie Eilish. Oh, 
+CG: wow. 
+JC2: {LG} Okay, there we go. 
+
+","JC2",NA,205.96,206.27,310
+"74","Popcast3",18,"oh","NotParticle",NA,NA,NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"oh","JC1: also think like the, it's hard to replicate the pure dirt-baggery of your dirtbag days 
+JC2: Sure. 
+JC1: you know? And I don't know what the grand scaled version of Salem sounds like. <<oh>> I do — Billie Eilish. Oh, 
+CG: wow. 
+JC2: {LG} Okay, there we go. 
+JC1: {LG} Which house pop cast TK-? 
+JC2: Moving on. 
+CG: I was gonna say, oh 
+JP: But okay, the 
+
+","JC1",138.89393,211.03,211.19,160
+"75","Popcast3",19,"oh",NA,"1stPerson",NA,NA,FALSE,NA,FALSE,NA,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"oh","JC1: the pure dirt-baggery of your dirtbag days 
+JC2: Sure. 
+JC1: you know? And I don't know what the grand scaled version of Salem sounds like. Oh, I do — Billie Eilish. <<oh>> 
+CG: wow. 
+JC2: {LG} Okay, there we go. 
+JC1: {LG} Which house pop cast TK-? 
+JC2: Moving on. 
+CG: I was gonna say, oh 
+JP: But okay, the -- but are you going to listen to the 
+
+","JC2",151.1031583,214.4217057,214.5884852,166.7795305
+"76","Popcast3",20,"wow",NA,"1stPerson",NA,NA,FALSE,"None",FALSE,NA,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"wow","JC1: pure dirt-baggery of your dirtbag days 
+JC2: Sure. 
+JC1: you know? And I don't know what the grand scaled version of Salem sounds like. Oh, I do — Billie Eilish. Oh, 
+CG: <<wow>> 
+JC2: {LG} Okay, there we go. 
+JC1: {LG} Which house pop cast TK-? 
+JC2: Moving on. 
+CG: I was gonna say, oh 
+JP: But okay, the -- but are you going to listen to the 
+
+","CG",172.3311202,215.1810486,215.5035891,322.5404808
+"77","Popcast3",21,"okay",NA,NA,NA,NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"okay","JC1: dirt-baggery of your dirtbag days 
+JC2: Sure. 
+JC1: you know? And I don't know what the grand scaled version of Salem sounds like. Oh, I do — Billie Eilish. Oh, 
+CG: wow. 
+JC2: {LG} <<okay>> there we go. 
+JC1: {LG} Which house pop cast TK-? 
+JC2: Moving on. 
+CG: I was gonna say, oh 
+JP: But okay, the -- but are you going to listen to the second One Hundred 
+
+","JC2",157.1170497,213.6264248,214.306,679.5751832
+"78","Popcast3",22,"oh",NA,NA,NA,NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"oh","JC1: like. Oh, I do — Billie Eilish. Oh, 
+CG: wow. 
+JC2: {LG} Okay, there we go. 
+JC1: {LG} Which house pop cast TK-? 
+JC2: Moving on. 
+CG: I was gonna say, <<oh>> 
+JP: But okay, the -- but are you going to listen to the second One Hundred Gecs album? 
+JC1: First of all, I -- if they never made an album again, I'd be fine with that. But, yes. 
+
+","CG",202.5817841,220.51,220.52,10
+"79","Popcast3",23,"okay",NA,NA,NA,NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"okay","JC1: like. Oh, I do — Billie Eilish. Oh, 
+CG: wow. 
+JC2: {LG} Okay, there we go. 
+JC1: {LG} Which house pop cast TK-? 
+JC2: Moving on. 
+CG: I was gonna say, oh 
+JP: But <<okay>> the -- but are you going to listen to the second One Hundred Gecs album? 
+JC1: First of all, I -- if they never made an album again, I'd be fine with that. But, yes. 
+
+","JP",235.3596618,220.6438619,221.042458,398.5960838
+"80","Popcast3",24,"fine","NotParticle",NA,NA,NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"fine","JC2: on. 
+CG: I was gonna say, oh 
+JP: But okay, the -- but are you going to listen to the second One Hundred Gecs album? 
+JC1: First of all, I -- if they never made an album again, I'd be <<fine>> with that. But, yes. It'll be intriguing to see how they turn the songs into, I assume, radio-focused songs, 
+
+","JC1",NA,228.69,228.91,220
+"81","Popcast3",25,"yes",NA,"1stPerson",NA,NA,FALSE,NA,FALSE,NA,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"yes","CG: oh 
+JP: But okay, the -- but are you going to listen to the second One Hundred Gecs album? 
+JC1: First of all, I -- if they never made an album again, I'd be fine with that. But, <<yes>> It'll be intriguing to see how they turn the songs into, I assume, radio-focused songs, if they 
+JC2: You think that's next? 
+JC1: I do. 
+
+","JC1",NA,230.15,230.7320286,582.0286086
+"82","Popcast3",26,NA,NA,"1stPerson",NA,NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"true","JC1: turn the songs into, I assume, radio-focused songs, if they 
+JC2: You think that's next? 
+JC1: I do. 
+JC2: There was certainly some label people standing on the back wall at Elsewhere. 
+JC1: That's <<true>> I was right there between the {LG} all of us right at the back wall, having a blast. 
+CG: I'm curious about another album that was on both of your lists, 
+
+","JC1",156.5047272,244.2306727,244.5,269.3272659
+"83","Popcast3",27,"right","NotParticle",NA,NA,NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"right","JC1: songs into, I assume, radio-focused songs, if they 
+JC2: You think that's next? 
+JC1: I do. 
+JC2: There was certainly some label people standing on the back wall at Elsewhere. 
+JC1: That's true, I was <<right>> there between the {LG} all of us right at the back wall, having a blast. 
+CG: I'm curious about another album that was on both of your lists, 
+
+","JC1",NA,245.09,245.35,260
+"84","Popcast3",28,"right","NotParticle",NA,NA,NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"right","JC2: You think that's next? 
+JC1: I do. 
+JC2: There was certainly some label people standing on the back wall at Elsewhere. 
+JC1: That's true, I was right there between the {LG} all of us <<right>> at the back wall, having a blast. 
+CG: I'm curious about another album that was on both of your lists, because there weren't that many. 
+JC1: Just two, correct? 
+CG: Yeah, that one and Lana Del Ray. 
+
+","JC1",87.51084968,249.139,249.339,200
+"85","Popcast3",29,NA,NA,"OwnKnowledge",NA,NA,FALSE,"None",FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"yeah","JC1: {LG} all of us right at the back wall, having a blast. 
+CG: I'm curious about another album that was on both of your lists, because there weren't that many. 
+JC1: Just two, correct? 
+CG: <<yeah>> that one and Lana Del Ray. 
+JC1: Yes, Lana Del Ray. 
+JC2: I mean, p- insane of the popcast this year. 
+JP: {LG} 
+CG: Yeah, truly. 
+JC1: And yet, we never did a lot of Popcasts. 
+JC2: We did 
+
+","CG",203.8748431,257.47,257.69,220
+"86","Popcast3",30,"yes",NA,"1stPerson",NA,NA,NA,"None",FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"yes","JC1: wall, having a blast. 
+CG: I'm curious about another album that was on both of your lists, because there weren't that many. 
+JC1: Just two, correct? 
+CG: Yeah, that one and Lana Del Ray. 
+JC1: <<yes>> Lana Del Ray. 
+JC2: I mean, p- insane of the popcast this year. 
+JP: {LG} 
+CG: Yeah, truly. 
+JC1: And yet, we never did a lot of Popcasts. 
+JC2: We did all the Popcasts about Lana, basically. 
+CG: {LG} 
+JC1: Fair, 
+
+","JC1",NA,259.82,260.5868096,766.8095549
+"87","Popcast3",31,"yeah",NA,"1stPerson",NA,NA,NA,"None",FALSE,NA,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"yeah","CG: your lists, because there weren't that many. 
+JC1: Just two, correct? 
+CG: Yeah, that one and Lana Del Ray. 
+JC1: Yes, Lana Del Ray. 
+JC2: I mean, p- insane of the popcast this year. 
+JP: {LG} 
+CG: <<yeah>> truly. 
+JC1: And yet, we never did a lot of Popcasts. 
+JC2: We did all the Popcasts about Lana, basically. 
+CG: {LG} 
+JC1: Fair, fair. J P, best Lana album? 
+
+","CG",266.426754,264.349,264.6490318,300.0318372
+"88","Popcast3",32,"truly",NA,"1stPerson",NA,NA,NA,"None",FALSE,NA,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"truly","CG: lists, because there weren't that many. 
+JC1: Just two, correct? 
+CG: Yeah, that one and Lana Del Ray. 
+JC1: Yes, Lana Del Ray. 
+JC2: I mean, p- insane of the popcast this year. 
+JP: {LG} 
+CG: Yeah, <<truly>> 
+JC1: And yet, we never did a lot of Popcasts. 
+JC2: We did all the Popcasts about Lana, basically. 
+CG: {LG} 
+JC1: Fair, fair. J P, best Lana album? 
+JP: I'm not sure, 
+
+","CG",209.2371894,264.86,265.2,340
+"89","Popcast3",33,"fair","ContentAgreement","1stPerson","Present",NA,NA,"None",FALSE,NA,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"fair","JC1: Yes, Lana Del Ray. 
+JC2: I mean, p- insane of the popcast this year. 
+JP: {LG} 
+CG: Yeah, truly. 
+JC1: And yet, we never did a lot of Popcasts. 
+JC2: We did all the Popcasts about Lana, basically. 
+CG: {LG} 
+JC1: <<fair>> fair. J P, best Lana album? 
+JP: I'm not sure, because I like a lot of them 
+JC1: Ultraviolence, yeah. 
+JP: Ultraviolence; I like the album with the strings, which is, 
+
+","JC1",90.81391979,269.969,270.5224274,553.4274344
+"90","Popcast3",34,"fair","ContentAgreement","1stPerson","Present","we did all the popcasts about lana basically",FALSE,"None",FALSE,NA,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"fair","JC1: Lana Del Ray. 
+JC2: I mean, p- insane of the popcast this year. 
+JP: {LG} 
+CG: Yeah, truly. 
+JC1: And yet, we never did a lot of Popcasts. 
+JC2: We did all the Popcasts about Lana, basically. 
+CG: {LG} 
+JC1: Fair, <<fair>> J P, best Lana album? 
+JP: I'm not sure, because I like a lot of them 
+JC1: Ultraviolence, yeah. 
+JP: Ultraviolence; I like the album with the strings, which is, I would bear 
+
+","JC1",119.7298021,270.75,271.28,530
+"91","Popcast3",35,NA,NA,"1stPerson",NA,NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"sure","CG: truly. 
+JC1: And yet, we never did a lot of Popcasts. 
+JC2: We did all the Popcasts about Lana, basically. 
+CG: {LG} 
+JC1: Fair, fair. J P, best Lana album? 
+JP: I'm not <<sure>> because I like a lot of them 
+JC1: Ultraviolence, yeah. 
+JP: Ultraviolence; I like the album with the strings, which is, I would bear within the k-- album that came out this year. So, I don't know about her best, definitely 
+
+","JP",253.7613245,274.91,275.21,300
+"92","Popcast3",36,"yeah",NA,"1stPerson",NA,NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"yeah","JC2: all the Popcasts about Lana, basically. 
+CG: {LG} 
+JC1: Fair, fair. J P, best Lana album? 
+JP: I'm not sure, because I like a lot of them 
+JC1: Ultraviolence, <<yeah>> 
+JP: Ultraviolence; I like the album with the strings, which is, I would bear within the k-- album that came out this year. So, I don't know about her best, definitely up there. 
+JC2: Focused. 
+JP: Yeah, that's -- that's the thing, 
+
+","JC1",NA,276.9277096,277.33,402.2903949
+"93","Popcast3",37,"yeah",NA,"1stPerson",NA,NA,FALSE,NA,FALSE,NA,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"yeah","JC1: Ultraviolence, yeah. 
+JP: Ultraviolence; I like the album with the strings, which is, I would bear within the k-- album that came out this year. So, I don't know about her best, definitely up there. 
+JC2: Focused. 
+JP: <<yeah>> that's -- that's the thing, it's so high concept. The hip-hop affectations that were in a lot of the others felt like 'I'm adding this because it's contemporary' 
+JC2: Which we talked about a little bit on our GRAMMYs 
+
+","JP",222.4927345,287.26,287.53,270
+"94","Popcast3",38,"yeah","ContentAgreement","1stPerson","Present",NA,FALSE,"None",FALSE,NA,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"yeah","JP: thing, it's so high concept. The hip-hop affectations that were in a lot of the others felt like 'I'm adding this because it's contemporary' 
+JC2: Which we talked about a little bit on our GRAMMYs popcast. 
+JC1: <<yeah>> sure. 
+JP: Yeah, and this time it's not there, not distracting you. Also, she just had more time to think about everything, and the songs are really melodically solid. 
+
+","JC1",196.1518365,298.11,298.47,360
+"95","Popcast3",39,"sure","ContentAgreement","1stPerson","Present",NA,FALSE,"None",FALSE,NA,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"sure","JP: it's so high concept. The hip-hop affectations that were in a lot of the others felt like 'I'm adding this because it's contemporary' 
+JC2: Which we talked about a little bit on our GRAMMYs popcast. 
+JC1: Yeah, <<sure>> 
+JP: Yeah, and this time it's not there, not distracting you. Also, she just had more time to think about everything, and the songs are really melodically solid. 
+JC1: Better 
+
+","JC1",101.0391852,298.47,298.719,249
+"96","Popcast3",40,"yeah","Phatic","1stPerson",NA,NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"yeah","JP: high concept. The hip-hop affectations that were in a lot of the others felt like 'I'm adding this because it's contemporary' 
+JC2: Which we talked about a little bit on our GRAMMYs popcast. 
+JC1: Yeah, sure. 
+JP: <<yeah>> and this time it's not there, not distracting you. Also, she just had more time to think about everything, and the songs are really melodically solid. 
+JC1: Better songwriting. 
+
+","JP",207.612301,298.1120551,298.4904501,378.3949577
+"97","Popcast4",1,"right","NotParticle",NA,NA,NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"right","JC1: of the music feels like it is, after a little bit of pendulum swinging, has like settled on like, uh, I hate to say it, but like a vibration that is like the <<right>> vibration for Lana Del Rey. And so, I don't know if I enjoy this record more than say, Ultraviolence, but I think it is maybe a better, 
+
+","JC1",86.26331083,50.76,51.09,330
+"98","Popcast4",2,"mm","Answer","1stPerson",NA,"bartender",FALSE,NA,FALSE,NA,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"mm","JC1: Go ahead. 
+JC2: Bartender? 
+JC1: <<mm>> Mhm. Let's do it. 
+
+","JC1",114.9737202,72.78266507,73.29722799,514.5629215
+"99","Popcast4",3,"mhm","Answer","1stPerson","Present","bartender",FALSE,NA,FALSE,NA,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"mhm","JC1: Go ahead. 
+JC2: Bartender? 
+JC1: Mm. <<mhm>> Let's do it. 
+
+","JC1",113.4563861,73.65179872,73.93606664,284.2679154
+"100","Popcast4",4,"okay","BehaviorAgreement","1stPerson",NA,"jon caramanica brittany howard jon caramanica santana",FALSE,"None",FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"okay","JC1: think. 
+JC2: I want, actually, Caramanica to talk about the rest of J P's list, and vice versa. 
+JC1: {LG} 
+CG: {LG} 
+JC2: Jon Caramanica, Brittany Howard, Jon Caramanica, Santana- 
+JC1: <<okay>> I have- 
+JC2: -Jon Caramanica, Sudan Archives, go. 
+CG: {LG} 
+JC1: Okay, uh -- the Brittany Howard record felt skeletal to me in a way that I just couldn't find an entry point 
+
+","JC1",144.1570827,134.9485523,135.079,130.4476663
+"101","Popcast4",5,"okay",NA,"1stPerson",NA,NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,NA,NA,NA,NA,NA,NA,"okay","JC2: list, and vice versa. 
+JC1: {LG} 
+CG: {LG} 
+JC2: Jon Caramanica, Brittany Howard, Jon Caramanica, Santana- 
+JC1: Okay, I have- 
+JC2: -Jon Caramanica, Sudan Archives, go. 
+CG: {LG} 
+JC1: <<okay>> uh -- the Brittany Howard record felt skeletal to me in a way that I just couldn't find an entry point into it. Alabama Shakes, to me, was always a group 
+
+","JC1",NA,137.9689822,138.3671554,398.1732346
+"102","Popcast4",6,NA,"Phatic",NA,NA,NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"right","JC1: like a tiny bit cerebral about this solo record for me. Santana, I did not listen to. Sudan Archives is good, but I didn't listen to it more than once. 
+JC2: All <<right>> J P. 
+JP: Oh, okay. 
+CG: Your -- your rebuttal? {LG} 
+JP: {LG} Point, counter point. 
+JC1: Take -- take me down, take me down. 
+JC2: {NI} 
+JC1: {LG} 
+CG: {LG} 
+JC2: Wait a minute, 
+
+","JC2",89.40692258,176.855,177.005,150
+"103","Popcast4",7,NA,NA,"1stPerson",NA,NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"oh","JC1: a tiny bit cerebral about this solo record for me. Santana, I did not listen to. Sudan Archives is good, but I didn't listen to it more than once. 
+JC2: All right, J P. 
+JP: <<oh>> okay. 
+CG: Your -- your rebuttal? {LG} 
+JP: {LG} Point, counter point. 
+JC1: Take -- take me down, take me down. 
+JC2: {NI} 
+JC1: {LG} 
+CG: {LG} 
+JC2: Wait a minute, 
+
+","JP",164.5369538,177.845,178.045,200
+"104","Popcast4",8,"okay",NA,"1stPerson","Present",NA,FALSE,"None",FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"okay","JC1: tiny bit cerebral about this solo record for me. Santana, I did not listen to. Sudan Archives is good, but I didn't listen to it more than once. 
+JC2: All right, J P. 
+JP: Oh, <<okay>> 
+CG: Your -- your rebuttal? {LG} 
+JP: {LG} Point, counter point. 
+JC1: Take -- take me down, take me down. 
+JC2: {NI} 
+JC1: {LG} 
+CG: {LG} 
+JC2: Wait a minute, 
+
+","JP",NA,178.045,178.355,310
+"105","Popcast4",9,"wait","NotParticle",NA,NA,NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"wait","JC1: listen to it more than once. 
+JC2: All right, J P. 
+JP: Oh, okay. 
+CG: Your -- your rebuttal? {LG} 
+JP: {LG} Point, counter point. 
+JC1: Take -- take me down, take me down. 
+JC2: {NI} 
+JC1: {LG} 
+CG: {LG} 
+JC2: <<wait>> a minute, wait a minute! Wait, did you just cast yourself in a certain role there? 
+JC1: I just -- no, I'm worried you did. 
+CG: Waldorf and Statler 
+
+","JC2",269.7787176,186.8579219,186.9953017,137.3798039
+"106","Popcast4",10,"wait","NotParticle",NA,NA,NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"wait","CG: rebuttal? {LG} 
+JP: {LG} Point, counter point. 
+JC1: Take -- take me down, take me down. 
+JC2: {NI} 
+JC1: {LG} 
+CG: {LG} 
+JC2: Wait a minute, <<wait>> a minute! Wait, did you just cast yourself in a certain role there? 
+JC1: I just -- no, I'm worried you did. 
+CG: Waldorf and Statler is more- {LG} 
+JC2: There we go. That's better, Caryn. 
+JP: Okay, so- 
+JC1: R I 
+
+","JC2",250.4260973,189.141374,189.8239315,682.5575307
+"107","Popcast4",11,"wait",NA,"1stPerson",NA,NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"wait","JP: {LG} Point, counter point. 
+JC1: Take -- take me down, take me down. 
+JC2: {NI} 
+JC1: {LG} 
+CG: {LG} 
+JC2: Wait a minute, wait a minute! <<wait>> did you just cast yourself in a certain role there? 
+JC1: I just -- no, I'm worried you did. 
+CG: Waldorf and Statler is more- {LG} 
+JC2: There we go. That's better, Caryn. 
+JP: Okay, so- 
+JC1: R I P {NI}. 
+
+","JC2",138.8167976,190.1961864,190.355,158.8135521
+"108","Popcast4",12,"no","Answer","1stPerson","Present",NA,FALSE,"None",FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"no","JC1: down, take me down. 
+JC2: {NI} 
+JC1: {LG} 
+CG: {LG} 
+JC2: Wait a minute, wait a minute! Wait, did you just cast yourself in a certain role there? 
+JC1: I just <<no>> I'm worried you did. 
+CG: Waldorf and Statler is more- {LG} 
+JC2: There we go. That's better, Caryn. 
+JP: Okay, so- 
+JC1: R I P {NI}. 
+JP: Let's -- let's talk Brittany. First of all, voice 
+
+","JC1",253.3301971,192.665,193.0460244,381.0243618
+"109","Popcast4",13,"okay","Phatic",NA,NA,NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"okay","JC2: wait a minute! Wait, did you just cast yourself in a certain role there? 
+JC1: I just -- no, I'm worried you did. 
+CG: Waldorf and Statler is more- {LG} 
+JC2: There we go. That's better, Caryn. 
+JP: <<okay>> so- 
+JC1: R I P {NI}. 
+JP: Let's -- let's talk Brittany. First of all, voice is amazing. Second of all, how dare you call something skeletal when you're listening to Bad Bunny records with like a reggae 
+
+","JP",148.1044605,198.865,199.295,430
+"110","Popcast4",14,NA,NA,"1stPerson",NA,NA,FALSE,NA,FALSE,NA,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"right","JP: most of it. So I -- I think she hits a lot of really beautiful extremes on this album. So that's that album. The Santana album, you should have listened to it. 
+JC1: I don't doubt it, I don't doubt that you're <<right>> 
+JP: The guitar is on fire. The guitar is- 
+JC1: I read your feature about it. I thought that was really good feature. 
+JP: Oh, thank you. But the guitar tone on the album is -- is like, angriest, craziest burn-down-the-walls tone 
+
+","JC1",110.0891537,246.42,246.66,240
+"111","Popcast4",15,"oh","BehaviorSurprise","1stPerson","Present",NA,FALSE,"Belief",FALSE,NA,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"oh","JP: this album. So that's that album. The Santana album, you should have listened to it. 
+JC1: I don't doubt it, I don't doubt that you're right. 
+JP: The guitar is on fire. The guitar is- 
+JC1: I read your feature about it. I thought that was really good feature. 
+JP: <<oh>> thank you. But the guitar tone on the album is -- is like, angriest, craziest burn-down-the-walls tone that he's used in maybe a decade, weak as another singer 
+
+","JP",233.482051,250.41,250.48,70
+"112","Popcast4",16,"all right","Phatic",NA,NA,NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"right","JP: angriest, craziest burn-down-the-walls tone that he's used in maybe a decade, weak as another singer who scales the highs and lows. 
+JC1: All <<right>> Can we play something that's particularly ripping on this record, on the Santana record? 
+JP: Sure, let's go 
+
+","JC1",134.8139877,263.515,263.685,170
+"113","Popcast4",17,"sure","Answer","1stPerson","Present",NA,NA,NA,FALSE,NA,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"sure","JP: tone that he's used in maybe a decade, weak as another singer who scales the highs and lows. 
+JC1: All right. Can we play something that's particularly ripping on this record, on the Santana record? 
+JP: <<sure>> let's go 
+
+","JP",185.3442019,266.5220494,266.75,227.9506276
+"114","Popcast4",18,"yeah","ContentAgreement","1stPerson","Present",NA,FALSE,"None",FALSE,NA,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"yeah","JC2: of Bad Bunny, Polo G slash YoungBoy Never Broke Again. Another Jon Caramanica one spot for two albums classic. 
+CG: Classic, <<yeah>> 
+JC2: And then you got Kim Petras, Clarity, at number four. J P? 
+JP: I listened to Bad Bunny and I actually -- I was thinking about Bad Bunny, skeletal, as it is. 
+JC1: Mm. 
+JP: I like the way he's using all of the 
+
+","CG",178.6616577,402.1318883,402.5018773,369.9890695
+"115","Popcast4",19,"mm",NA,"1stPerson",NA,NA,NA,NA,FALSE,NA,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"mm","JC2: albums classic. 
+CG: Classic, yeah. 
+JC2: And then you got Kim Petras, Clarity, at number four. J P? 
+JP: I listened to Bad Bunny and I actually -- I was thinking about Bad Bunny, skeletal, as it is. 
+JC1: <<mm>> 
+JP: I like the way he's using all of the Caribbean traditional instruments. 
+JC1: Yeah. 
+JP: He tucks them in. I -- I think that's a nice broadening of the sound. I am so tired of eight oh eight sounds. 
+
+","JC1",97.82587004,411.156,411.5287052,372.7051775
+"116","Popcast4",20,"yeah",NA,"1stPerson",NA,NA,FALSE,NA,FALSE,NA,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"yeah","JC2: number four. J P? 
+JP: I listened to Bad Bunny and I actually -- I was thinking about Bad Bunny, skeletal, as it is. 
+JC1: Mm. 
+JP: I like the way he's using all of the Caribbean traditional instruments. 
+JC1: <<yeah>> 
+JP: He tucks them in. I -- I think that's a nice broadening of the sound. I am so tired of eight oh eight sounds. Producers of America and the world, please. 
+JC1: {LG} 
+JC2: There's some eight oh eights on your number one 
+
+","JC1",183.5784337,415.575,415.9234471,348.447074
+"117","Popcast4",21,"oh",NA,NA,NA,NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"oh","JP: skeletal, as it is. 
+JC1: Mm. 
+JP: I like the way he's using all of the Caribbean traditional instruments. 
+JC1: Yeah. 
+JP: He tucks them in. I -- I think that's a nice broadening of the sound. I am so tired of eight <<oh>> eight sounds. Producers of America and the world, please. 
+JC1: {LG} 
+JC2: There's some eight oh eights on your number one album of the year. 
+CG: {LG} 
+JP: Yeah, I know, of course, but, but you know, get yourself a Linn drum machine, get yourself 
+
+","JP",158.6808117,420.4392344,420.56,120.7656405
+"118","Popcast4",22,"oh",NA,NA,NA,NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"oh","JP: instruments. 
+JC1: Yeah. 
+JP: He tucks them in. I -- I think that's a nice broadening of the sound. I am so tired of eight oh eight sounds. Producers of America and the world, please. 
+JC1: {LG} 
+JC2: There's some eight <<oh>> eights on your number one album of the year. 
+CG: {LG} 
+JP: Yeah, I know, of course, but, but you know, get yourself a Linn drum machine, get yourself a different- john is throwing the gauntlet down 
+
+","JC2",138.2121397,424.83,424.95,120
+"119","Popcast4",23,"yeah",NA,"1stPerson","Present","there's some eight oh eights on your number one album of the year",FALSE,"None",FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"yeah","JP: I -- I think that's a nice broadening of the sound. I am so tired of eight oh eight sounds. Producers of America and the world, please. 
+JC1: {LG} 
+JC2: There's some eight oh eights on your number one album of the year. 
+CG: {LG} 
+JP: <<yeah>> I know, of course, but, but you know, get yourself a Linn drum machine, get yourself a different- john is throwing the gauntlet down some new drums in 2020. 
+
+","JP",198.4344489,426.5769367,426.8406539,263.7171515
+"120","Popcast4",24,"yes","BehaviorAgreement","1stPerson","Present",NA,FALSE,"None",FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"yes","JP: course, but, but you know, get yourself a Linn drum machine, get yourself a different- john is throwing the gauntlet down some new drums in 2020. <<yes>> please. Wow. That goes for polo G and NBA. Just fly that in for the other team. 
+
+","JC2",138.066747,437.4247473,438.043343,618.5957876
+"121","Popcast4",25,"wow","BehaviorSurprise","1stPerson","Present",NA,FALSE,"None",FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"wow","JP: a Linn drum machine, get yourself a different- john is throwing the gauntlet down some new drums in 2020. Yes, please. <<wow>> That goes for polo G and NBA. Just fly that in for the other team. 
+JC1: Man. So I was cleaning my car 
+
+","JC1",133.7993031,439.2814858,440.2616071,980.1212687
+"122","Popcast4",26,"yeah","Answer","1stPerson","Present","you want me to tell it",FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"yeah","JC2: think you've already told this story on the Popcast. 
+JC1: I have? 
+JC2: I don't know, maybe just to me. 
+CG: {LG} 
+JC1: Our personal Popcast. 
+JC2: {LG} 
+JC1: Private p- -- private podcast. 
+JC2: You want me to tell it- 
+JC1: <<yeah>> go ahead. 
+JC2: -as you? 
+JC1: Go ahead, go ahead. 
+JC2: Jon, from what I recall, you know, I'm writing a -- this is me writing a feature on Jon Caramanica. 
+CG: {LG} 
+JC2: Jon Caramanica cleaning out his car. It's a 
+
+","JC1",252.1135761,463.33,463.6061628,276.1628187
+"123","Popcast4",27,"absolutely","ContentAgreement","1stPerson","Present",NA,FALSE,NA,FALSE,NA,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"absolutely","JC2: mean songs and dark, depressed songs. He's -- I feel like he's both a -- he's like both a victim and a perpetrator in this album in such a- 
+JC1: <<absolutely>> 
+JC2: -such a way that plays off of each other. Is that -- is that accurate? 
+JC1: Yeah. That is a true story, and I have not felt this, like, emotionally 
+
+","JC1",104.1961965,502.789,503.349,560
+"124","Popcast4",28,"yeah","Answer","1stPerson","Present",NA,FALSE,"None",FALSE,NA,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"yeah","JC2: -- I feel like he's both a -- he's like both a victim and a perpetrator in this album in such a- 
+JC1: Absolutely. 
+JC2: -such a way that plays off of each other. Is that -- is that accurate? 
+JC1: <<yeah>> That is a true story, and I have not felt this, like, emotionally provoked by a rap record, probably since like a early Drake record. 
+
+","JC1",142.586959,507.479,508.02,541
+"125","Popcast4",29,"true","NotParticle",NA,NA,NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"true","JC2: a -- he's like both a victim and a perpetrator in this album in such a- 
+JC1: Absolutely. 
+JC2: -such a way that plays off of each other. Is that -- is that accurate? 
+JC1: Yeah. That is a <<true>> story, and I have not felt this, like, emotionally provoked by a rap record, probably since like a early Drake record. Like 
+
+","JC1",NA,508.59,508.8,210
+"126","Popcast4",30,NA,"ContentAgreement","1stPerson","Present",NA,FALSE,"None",FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"yeah","JC1: not felt this, like, emotionally provoked by a rap record, probably since like a early Drake record. Like it's- 
+JC2: It's a very different thing than- 
+JC1: <<yeah>> no, it's completely opposite. Except in the singing and rapping hybrid, which Drake pioneered in the 2010s. {LG} 
+JC2: {LG} 
+CG: Are we keeping that in? {LG} 
+JC1: In 
+
+","JC1",237.3620706,520.275,520.525,250
+"127","Popcast4",31,"no",NA,"1stPerson",NA,NA,FALSE,NA,FALSE,NA,NA,NA,NA,NA,NA,FALSE,NA,NA,NA,NA,NA,NA,"no","JC1: felt this, like, emotionally provoked by a rap record, probably since like a early Drake record. Like it's- 
+JC2: It's a very different thing than- 
+JC1: Yeah, <<no>> it's completely opposite. Except in the singing and rapping hybrid, which Drake pioneered in the 2010s. {LG} 
+JC2: {LG} 
+CG: Are we keeping that in? {LG} 
+JC1: In the 
+
+","JC1",172.7359053,520.725,520.875,150
+"128","Popcast4",32,"oh my god",NA,"1stPerson",NA,NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"oh","JC1: hybrid, which Drake pioneered in the 2010s. {LG} 
+JC2: {LG} 
+CG: Are we keeping that in? {LG} 
+JC1: In the 2010s as part of the decade package. <<oh>> my God. So, this album, to me, and I like NBA YoungBoy, like I've written about him before, you know, lot of his projects 
+
+","JC1",138.3694592,534.345,534.645,300
+"129","Popcast4",33,"right","NotParticle",NA,NA,NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"right","JC1: melodies are like much brighter as melodies. And so these two albums to me are, like, sort of like opposite sides of the same coin this year. And I think it's really telling of the best rap music being made <<right>> now. Ease music like this and yeah, both of these records, very, very emotional if you open your heart to them. 
+JC2: You want to play an NBA YoungBoy song? 
+JC1: Yeah, let's play 
+
+","JC1",94.27009804,580.609,580.849,240
+"130","Popcast4",34,"yeah",NA,"1stPerson",NA,NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,NA,NA,NA,NA,NA,NA,"yeah","JC1: like, sort of like opposite sides of the same coin this year. And I think it's really telling of the best rap music being made right now. Ease music like this and <<yeah>> both of these records, very, very emotional if you open your heart to them. 
+JC2: You want to play an NBA YoungBoy song? 
+JC1: Yeah, let's play -- first of all, you should play every NBA YoungBoy song 
+
+","JC1",154.1302242,584.535,584.775,240
+"131","Popcast4",35,"yeah","Answer","1stPerson","Present","you want to play an nba youngboy song",FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"yeah","JC1: being made right now. Ease music like this and yeah, both of these records, very, very emotional if you open your heart to them. 
+JC2: You want to play an NBA YoungBoy song? 
+JC1: <<yeah>> let's play -- first of all, you should play every NBA YoungBoy song ten times over. For these purposes, let's play Lonely Child. 
+
+","JC1",148.112922,590.145,590.535,390
+"132","Popcast4",36,"yeah","Answer","1stPerson","Present","you mean would i just make them three and four",FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"yeah","JC1: {MS} 
+CG: What would you do if you had to make your list without doubling up? 
+JC1: You mean, would I just make them three and four- 
+CG: <<yeah>> 
+JC1: -or would I somehow like make them three and nine. 
+CG: Do you think that they're both worthy of the spot or do you include them together- 
+JC1: Yeah -- yeah. 
+CG: -because they're thematically similar? 
+JC1: Both. I wouldn't -- if -- if -- if the 
+
+","CG",190.684662,642.56,642.67,110
+"133","Popcast4",37,"yeah",NA,"1stPerson","Present",NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"yeah","CG: without doubling up? 
+JC1: You mean, would I just make them three and four- 
+CG: Yeah. 
+JC1: -or would I somehow like make them three and nine. 
+CG: Do you think that they're both worthy of the spot or do you include them together- 
+JC1: <<yeah>> -- yeah. 
+CG: -because they're thematically similar? 
+JC1: Both. I wouldn't -- if -- if -- if the Polo G record was like materially worse than the YoungBoy record, I wouldn't do it. I would space 
+
+","JC1",NA,648.2837121,648.493666,209.9538268
+"134","Popcast4",38,"yeah","Answer","1stPerson","Present","do you think that they're both worthy of the spot or do you include them together",FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"yeah","CG: without doubling up? 
+JC1: You mean, would I just make them three and four- 
+CG: Yeah. 
+JC1: -or would I somehow like make them three and nine. 
+CG: Do you think that they're both worthy of the spot or do you include them together- 
+JC1: Yeah <<yeah>> 
+CG: -because they're thematically similar? 
+JC1: Both. I wouldn't -- if -- if -- if the Polo G record was like materially worse than the YoungBoy record, I wouldn't do it. I would space 
+
+","JC1",171.4656299,648.493666,648.7063112,212.6452596
+"135","Popcast4",39,"yes",NA,"1stPerson",NA,NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"yes","JC1: like I'd rather tell the story, the bigger picture story by putting them as a unit. 
+CG: You're fortunate you work with such a flexible editor who permits such- 
+JC1: I often think that. 
+CG: <<yes>> 
+JC2: Do you want to do a minute on Kim Petras? I've been a little surprised by your continued support of this album this year. 
+JC1: Yeah, uh w- -- because why? 
+JC2: Uh- 
+CG: Uh- 
+JC2: There's a thing- 
+
+","CG",166.0937078,687.495,687.735,240
+"136","Popcast4",40,"yeah","Answer","1stPerson","Present","do you want to do a minute on kim petras",FALSE,"None",FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"yeah","CG: flexible editor who permits such- 
+JC1: I often think that. 
+CG: Yes. 
+JC2: Do you want to do a minute on Kim Petras? I've been a little surprised by your continued support of this album this year. 
+JC1: <<yeah>> uh w- -- because why? 
+JC2: Uh- 
+CG: Uh- 
+JC2: There's a thing- 
+JC1: {LG} 
+CG: {LG} 
+JC2: I'm not talking about Dr. Luke- 
+CG: Nah. 
+JC2: -we could talk about that on another Popcast. 
+JP: Well plus, if Billie Eilish 
+
+","JC1",227.3515182,693.619,694.1608471,541.8471381
+"137","Popcast4",41,"nah",NA,"1stPerson","Present","i'm not talking about dr luke",FALSE,"None",TRUE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"nah","JC2: by your continued support of this album this year. 
+JC1: Yeah, uh w- -- because why? 
+JC2: Uh- 
+CG: Uh- 
+JC2: There's a thing- 
+JC1: {LG} 
+CG: {LG} 
+JC2: I'm not talking about Dr. Luke- 
+CG: <<nah>> 
+JC2: -we could talk about that on another Popcast. 
+JP: Well plus, if Billie Eilish is too pop- 
+JC1: I didn't say she's too pop. 
+JC2: So my thing about Kim Petras- 
+JC1: She's too classicist. 
+CG: Yes. 
+JC2: -my thing about Kim Petras, I believe 
+
+","CG",119.4277526,701.2116775,701.9394634,727.7858886
+"138","Popcast4",42,"well","Well",NA,NA,"we could talk about that on another popcast",FALSE,"None",FALSE,FALSE,NA,NA,NA,NA,"None",FALSE,NA,NA,NA,NA,NA,NA,"well","JC1: Yeah, uh w- -- because why? 
+JC2: Uh- 
+CG: Uh- 
+JC2: There's a thing- 
+JC1: {LG} 
+CG: {LG} 
+JC2: I'm not talking about Dr. Luke- 
+CG: Nah. 
+JC2: -we could talk about that on another Popcast. 
+JP: <<well>> plus, if Billie Eilish is too pop- 
+JC1: I didn't say she's too pop. 
+JC2: So my thing about Kim Petras- 
+JC1: She's too classicist. 
+CG: Yes. 
+JC2: -my thing about Kim Petras, I believe there's, and this is not about 
+
+","JP",NA,702.5070127,702.746613,239.6002925
+"139","Popcast4",43,"yes","ContentAgreement","1stPerson","Present","she's too classicist",FALSE,"None",FALSE,TRUE,NA,NA,NA,NA,NA,FALSE,FALSE,"classicist","PPT",NA,NA,NA,"yes","CG: {LG} 
+JC2: I'm not talking about Dr. Luke- 
+CG: Nah. 
+JC2: -we could talk about that on another Popcast. 
+JP: Well plus, if Billie Eilish is too pop- 
+JC1: I didn't say she's too pop. 
+JC2: So my thing about Kim Petras- 
+JC1: She's too classicist. 
+CG: <<yes>> 
+JC2: -my thing about Kim Petras, I believe there's, and this is not about her specifically, but I believe there's a class of artists that does, and some might put Gecs 
+
+","CG",NA,708.41,708.819,409
+"140","Popcast4",44,"yeah",NA,"1stPerson",NA,NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"yeah","JC2: does pop with single quotation marks around it. And often, to me, it's just worse than the capital P pop. 
+JC1: The thing it's referencing? 
+JC2: <<yeah>> And this feels a little -- it's both. But- 
+CG: That's actually how I felt about Charli X C X's his records this year. 
+JC2: So, I'm not going to name names, but as I said- 
+CG: Oh, okay. 
+JC2: -there's a class of these artists- 
+
+","JC2",122.1139524,733.5677513,733.8942067,326.4553986
+"141","Popcast4",45,NA,"ContentSurprise","1stPerson","Present",NA,FALSE,"None",TRUE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"oh","JC2: capital P pop. 
+JC1: The thing it's referencing? 
+JC2: Yeah. And this feels a little -- it's both. But- 
+CG: That's actually how I felt about Charli X C X's his records this year. 
+JC2: So, I'm not going to name names, but as I said- 
+CG: <<oh>> okay. 
+JC2: -there's a class of these artists- 
+CG: Sorry. {LG} 
+JC1: {LG} Just saying. 
+JC2: There's a c- -- whole class -- this is a -- a whole genre, basically from the last five years, I would say. 
+JC1: But are you talking, like, PC 
+
+","CG",118.7321058,742.0405617,742.2292469,188.6852304
+"142","Popcast4",46,"okay","BehaviorAgreement","1stPerson","Present","so i'm not going to name names but as i said",FALSE,"None",TRUE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"okay","JC2: capital P pop. 
+JC1: The thing it's referencing? 
+JC2: Yeah. And this feels a little -- it's both. But- 
+CG: That's actually how I felt about Charli X C X's his records this year. 
+JC2: So, I'm not going to name names, but as I said- 
+CG: Oh, <<okay>> 
+JC2: -there's a class of these artists- 
+CG: Sorry. {LG} 
+JC1: {LG} Just saying. 
+JC2: There's a c- -- whole class -- this is a -- a whole genre, basically from the last five years, I would say. 
+JC1: But are you talking, like, PC 
+
+","CG",125.1386094,742.2292469,742.5257523,296.505362
+"143","Popcast4",47,"okay","Phatic","1stPerson",NA,NA,FALSE,NA,NA,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"okay","JC1: {LG} Just saying. 
+JC2: There's a c- -- whole class -- this is a -- a whole genre, basically from the last five years, I would say. 
+JC1: But are you talking, like, PC music stuff? 
+CG: He's not naming names here, Jon. {LG} 
+JC1: <<okay>> let's say, hypothetically, you're talking about PC music. If you were talking about PC music, I think what you're saying makes a lot of sense. The thing that I get from the Kim Petras record and that I 
+
+","JC1",211.9396365,755.243729,755.884,640.2709975
+"144","Popcast4",48,"okay","Phatic","1stPerson",NA,NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"okay","JC1: and that I don't explicitly get from PC music -- PC music feels like commentary to me. Kim Petras feels like a dutiful student, with- 
+JC2: <<okay>> so you don't think it's commentary. 
+JC1: I don't. Now, Kim Petras works with the Doctor Luke team, depending who you ask, and what answer you get, 
+
+","JC2",NA,775.005,775.235,230
+"145","Popcast4",49,"no",NA,"Other",NA,NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"no","JC1: of came back to it a few months later because I had the same kind of skepticism of like, 'did I go maybe a little too hard for this record?' And like, when I was putting this list together, I listened to it again. And I was like, <<no>> this -- I feel like these songs are solid. Now, the thing that's made me not solid that maybe is tough in the big picture is I don't think she has like a world-class voice 
+
+","JC1",154.9071548,824.12,824.33,210
+"146","Popcast4",50,"oh",NA,"1stPerson","Present","don't you find there's something unctuous about carly rae jepsen's voice",FALSE,NA,FALSE,TRUE,NA,NA,NA,NA,NA,FALSE,FALSE,"unctuous","PPT",NA,NA,NA,"oh","JC2: whole bit and changed the name, you could be talking about a different artist. 
+JC1: Don't you find there's something unctuous about Carly Rae Jepsen's voice? 
+JC2: <<oh>> say it- 
+CG: {LG} 
+JC1: Carly Rae {NI} -- don't you find there's something a little unctuous? 
+CG: I prefer the voice. 
+
+","JC2",149.5701843,856.48,856.65,170
+"147","Popcast4",51,"yeah",NA,"1stPerson","Present",NA,FALSE,"None",TRUE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"yeah","JC2: it- 
+CG: {LG} 
+JC1: Carly Rae {NI} -- don't you find there's something a little unctuous? 
+CG: I prefer the voice. 
+JC2: I'm not writing for this Carly Rae album, also. 
+JC1: <<yeah>> yeah -- no -- I mean, to me, the -- the kind of, like, muted shrillness of the Kim Petras voice is an appropriate fit for the production choices. I sometimes think that the ideologies 
+
+","JC1",222.1426396,869.015,869.085,70
+"148","Popcast4",52,"yeah","Phatic","1stPerson","Present","i'm not writing for this carly rae album also",FALSE,"None",TRUE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"yeah","JC2: it- 
+CG: {LG} 
+JC1: Carly Rae {NI} -- don't you find there's something a little unctuous? 
+CG: I prefer the voice. 
+JC2: I'm not writing for this Carly Rae album, also. 
+JC1: Yeah, <<yeah>> -- no -- I mean, to me, the -- the kind of, like, muted shrillness of the Kim Petras voice is an appropriate fit for the production choices. I sometimes think that the ideologies 
+
+","JC1",220.1878902,869.085,869.205,120
+"149","Popcast4",53,"no",NA,"1stPerson","Present",NA,FALSE,NA,NA,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"no","JC2: it- 
+CG: {LG} 
+JC1: Carly Rae {NI} -- don't you find there's something a little unctuous? 
+CG: I prefer the voice. 
+JC2: I'm not writing for this Carly Rae album, also. 
+JC1: Yeah, yeah <<no>> -- I mean, to me, the -- the kind of, like, muted shrillness of the Kim Petras voice is an appropriate fit for the production choices. I sometimes think that the ideologies 
+
+","JC1",196.1575548,869.205,869.465,260
+"150","Popcast4",54,"no",NA,"1stPerson","Present",NA,TRUE,"None",FALSE,FALSE,"i think","Present",NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"no","JC1: the ideologies that people wish to apply to Carly Rae Jepsen are far more advanced or fully formed than Carly Rae Jepsen. 
+CG: I think we all feel that way. 
+JC1: And, uh <<no>> -- many people on Twitter- {LG} 
+CG: No, no, I meant in the room. 
+JC1: Oh okay, I was like, I can identify hundreds of them who don't feel that way, but only a hundred. Ooh, Joe said that, hit him, don't 
+
+","JC1",185.2249009,888.749,889.06,311
+"151","Popcast4",55,"no",NA,"1stPerson","Present",NA,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"no","JC1: Carly Rae Jepsen are far more advanced or fully formed than Carly Rae Jepsen. 
+CG: I think we all feel that way. 
+JC1: And, uh no -- many people on Twitter- {LG} 
+CG: <<no>> no, I meant in the room. 
+JC1: Oh okay, I was like, I can identify hundreds of them who don't feel that way, but only a hundred. Ooh, Joe said that, hit him, don't hit me. 
+JP: I -- I just want to say, 
+
+","CG",250.6694041,890.619,890.68,61
+"152","Popcast4",56,"no","ContentDisagreement","1stPerson","Present"," many people on twitter",FALSE,"None",FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"no","JC1: Carly Rae Jepsen are far more advanced or fully formed than Carly Rae Jepsen. 
+CG: I think we all feel that way. 
+JC1: And, uh no -- many people on Twitter- {LG} 
+CG: No, <<no>> I meant in the room. 
+JC1: Oh okay, I was like, I can identify hundreds of them who don't feel that way, but only a hundred. Ooh, Joe said that, hit him, don't hit me. 
+JP: I -- I just want to say, 
+
+","CG",NA,890.68,890.899,219
+"153","Popcast4",57,NA,NA,"1stPerson",NA,NA,FALSE,NA,NA,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"oh","JC1: are far more advanced or fully formed than Carly Rae Jepsen. 
+CG: I think we all feel that way. 
+JC1: And, uh no -- many people on Twitter- {LG} 
+CG: No, no, I meant in the room. 
+JC1: <<oh>> okay, I was like, I can identify hundreds of them who don't feel that way, but only a hundred. Ooh, Joe said that, hit him, don't hit me. 
+JP: I -- I just want to say, this is someone who also stands 
+
+","JC1",120.6998655,891.819,892.17,351
+"154","Popcast4",58,"okay","Answer","1stPerson","Present","no no i meant in the room",FALSE,"None",TRUE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"okay","JC1: are far more advanced or fully formed than Carly Rae Jepsen. 
+CG: I think we all feel that way. 
+JC1: And, uh no -- many people on Twitter- {LG} 
+CG: No, no, I meant in the room. 
+JC1: Oh <<okay>> I was like, I can identify hundreds of them who don't feel that way, but only a hundred. Ooh, Joe said that, hit him, don't hit me. 
+JP: I -- I just want to say, this is someone who also stands 
+
+","JC1",214.8573234,892.24,892.349,109
+"155","Popcast4",59,"yeah",NA,"1stPerson","Present",NA,FALSE,"None",FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"yeah","JC1: them who don't feel that way, but only a hundred. Ooh, Joe said that, hit him, don't hit me. 
+JP: I -- I just want to say, this is someone who also stands for Charlie Puth. 
+CG: <<yeah>> 
+JC2: {LG} Jon Caramanica- 
+JC1: First of all, great American songwriter and producer Charlie Puth. And I'm enough -- here's the thing, I'm a reasonable enough person to identify that the Charlie Puth 
+
+","CG",152.147737,904.2972805,905.2556817,958.4011702
+"156","Popcast4",60,"wow",NA,"1stPerson","Present",NA,NA,"None",FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"wow","JC1: American songwriter and producer Charlie Puth. And I'm enough -- here's the thing, I'm a reasonable enough person to identify that the Charlie Puth peak has already passed. 
+JC2: {LG} 
+CG: <<wow>> 
+JC1: The songs- 
+JC2: {LG} So you're burying Charlie Puth? 
+JC1: -the songs that have come out subsequent to the post to the last album have not been as strong. 
+CG: He's kicking dirt on Puth. 
+JC1: First of all, maybe 
+
+","CG",197.0014798,916.55,917.13,580
+"157","Popcast4",61,"yeah",NA,"1stPerson",NA,NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"yeah","JC1: subsequent to the post to the last album have not been as strong. 
+CG: He's kicking dirt on Puth. 
+JC1: First of all, maybe some of y'all need to get on Steven Puth. That's all I'm saying. 
+JC2: {LG} 
+CG: I was waiting when that was happen- 
+JC1: <<yeah>> Some of y'all need to get on that. Um, yeah, the -- the -- the subsequent Puth stuff has not been as good. 
+JC2: He's not on your list this year. 
+JC1: None of those singles were on my list. There was a loucheness, and I think 
+
+","JC1",141.6341124,931.4233586,931.5611288,137.7701682
+"158","Popcast4",62,"yeah",NA,"1stPerson","Present",NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"yeah","JC1: have not been as strong. 
+CG: He's kicking dirt on Puth. 
+JC1: First of all, maybe some of y'all need to get on Steven Puth. That's all I'm saying. 
+JC2: {LG} 
+CG: I was waiting when that was happen- 
+JC1: Yeah. Some of y'all need to get on that. Um, <<yeah>> the -- the -- the subsequent Puth stuff has not been as good. 
+JC2: He's not on your list this year. 
+JC1: None of those singles were on my list. There was a loucheness, and I think he -- I 
+
+","JC1",222.9345889,933.1,933.37,270
+"159","Popcast4",63,NA,NA,"1stPerson",NA,NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"true","JC2: year. 
+JC1: None of those singles were on my list. There was a loucheness, and I think he -- I think -- look, I'm not one to speculate. Actually, that's not <<true>> I am. 
+JP: {LG} 
+JC1: Sometime after the release of the last album and the release of the songs, Charlie Puth became sentient 
+
+","JC1",109.9846212,947.145,947.335,190
+"160","Popcast4",64,"yeah",NA,"1stPerson",NA,NA,FALSE,"None",FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"yeah","CG: problem? 
+JC2: Happens to the best of us. 
+JC1: He knows what he has -- he knows what he has. I don't know why you looked at me when you said that. {LG} <<yeah>> Charlie Puth became sentient and that's a problem. 
+JP: So when Kim Petras becomes sentient, she's done? 
+JC1: Here's the thing, Charlie Puth largely does his own songwriting, his own production, I mean, he works 
+
+","JC1",202.1090111,969.445,969.615,170
+"161","Popcast4",65,"yes",NA,"1stPerson","Present",NA,FALSE,"None",FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"yes","JC1: sturdy enough to sustain, even if she does become more self aware. Tough to say. 
+CG: I did not see this as where our 2019 albums of the year conversation was going to land. 
+JC2: {LG} And yet. 
+CG: <<yes>> Just wanted to point that out. 
+JC2: Always keeping you on your toes. 
+CG: Maybe we should start talking about the best songs of the year lists. 
+JC1: Wait, don't we want to talk about, um- 
+CG: No, we're not going to talk about the end of your list 
+
+","CG",NA,1015.669569,1016.103845,434.2755302
+"162","Popcast4",66,"wait",NA,NA,NA,NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"wait","CG: this as where our 2019 albums of the year conversation was going to land. 
+JC2: {LG} And yet. 
+CG: Yes. Just wanted to point that out. 
+JC2: Always keeping you on your toes. 
+CG: Maybe we should start talking about the best songs of the year lists. 
+JC1: <<wait>> don't we want to talk about, um- 
+CG: No, we're not going to talk about the end of your list {LG} , where it's -- where it becomes flawed. 
+JC1: Where? Which- 
+JC2: Oh, come on. We've gotta- 
+JC1: wait, which- 
+JC2: Caryn's trying to yada, 
+
+","JC1",246.0703102,1021.194,1021.395,201
+"163","Popcast4",67,"no","Answer","1stPerson",NA,NA,FALSE,"None",NA,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"no","CG: year conversation was going to land. 
+JC2: {LG} And yet. 
+CG: Yes. Just wanted to point that out. 
+JC2: Always keeping you on your toes. 
+CG: Maybe we should start talking about the best songs of the year lists. 
+JC1: Wait, don't we want to talk about, um- 
+CG: <<no>> we're not going to talk about the end of your list {LG} , where it's -- where it becomes flawed. 
+JC1: Where? Which- 
+JC2: Oh, come on. We've gotta- 
+JC1: wait, which- 
+JC2: Caryn's trying to yada, yada, some of your real 
+
+","CG",185.6048089,1023.235,1023.625,390
+"164","Popcast4",68,NA,NA,"1stPerson",NA,NA,FALSE,"None",NA,NA,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"oh","CG: Maybe we should start talking about the best songs of the year lists. 
+JC1: Wait, don't we want to talk about, um- 
+CG: No, we're not going to talk about the end of your list {LG} , where it's -- where it becomes flawed. 
+JC1: Where? Which- 
+JC2: <<oh>> come on. We've gotta- 
+JC1: wait, which- 
+JC2: Caryn's trying to yada, yada, some of your real choices. 
+JP: {NI} and Beautiful things. 
+JC1: Say it. Say your -- say names. 
+JC2: Let's go through J P's. 
+CG: {LG} 
+
+","JC2",136.2997465,1028.508903,1028.794,285.0965749
+"165","Popcast4",69,"wait",NA,"1stPerson","Present",NA,FALSE,NA,FALSE,NA,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"wait","CG: songs of the year lists. 
+JC1: Wait, don't we want to talk about, um- 
+CG: No, we're not going to talk about the end of your list {LG} , where it's -- where it becomes flawed. 
+JC1: Where? Which- 
+JC2: Oh, come on. We've gotta- 
+JC1: <<wait>> which- 
+JC2: Caryn's trying to yada, yada, some of your real choices. 
+JP: {NI} and Beautiful things. 
+JC1: Say it. Say your -- say names. 
+JC2: Let's go through J P's. 
+CG: {LG} 
+JC1: Fine. J P first, save 
+
+","JC1",211.7983522,1029.755799,1030.03134,275.5403364
+"166","Popcast4",70,"fine",NA,"1stPerson","Present","let's go through j p's",FALSE,"None",FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"fine","JC2: come on. We've gotta- 
+JC1: wait, which- 
+JC2: Caryn's trying to yada, yada, some of your real choices. 
+JP: {NI} and Beautiful things. 
+JC1: Say it. Say your -- say names. 
+JC2: Let's go through J P's. 
+CG: {LG} 
+JC1: <<fine>> J P first, save me for after, it's fine. 
+JC2: J P, let's jump back into your list. Number five, you have Eli. Tell us about that album. 
+JP: She's the younger sister 
+
+","JC1",164.0024418,1038.815,1039.024,209
+"167","Popcast4",71,NA,NA,NA,NA,NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"fine","JC2: yada, yada, some of your real choices. 
+JP: {NI} and Beautiful things. 
+JC1: Say it. Say your -- say names. 
+JC2: Let's go through J P's. 
+CG: {LG} 
+JC1: Fine. J P first, save me for after, it's <<fine>> 
+JC2: J P, let's jump back into your list. Number five, you have Eli. Tell us about that album. 
+JP: She's the younger sister of the {NI} brothers. 
+
+","JC1",NA,1041.139,1041.53,391
+"168","Popcast4",72,NA,NA,"1stPerson",NA,NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"oh","JC2: your list is very diverse as always. You have {NI}, II, Lana, we talked about, Michael Kiwanuka's album, and Black Midi at number nine. 
+JP: <<oh>> yeah, Black Mitty, my- 
+CG: That was a surprise. 
+JP: That was my music geek choice. 
+JC2: And that was the one album on your list I think that nobody wrote about. 
+JP: I had one playlist for a song- 
+JC2: Okay. 
+JP: -and probably should have written about 
+
+","JP",191.3835847,1094.09,1094.209,119
+"169","Popcast4",73,"yeah","BehaviorAgreement","1stPerson","Present","list is very diverse as always you have {ni} ii lana we talked about michael kiwanuka's album and black midi at number nine",FALSE,"None",FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"yeah","JC2: list is very diverse as always. You have {NI}, II, Lana, we talked about, Michael Kiwanuka's album, and Black Midi at number nine. 
+JP: Oh <<yeah>> Black Mitty, my- 
+CG: That was a surprise. 
+JP: That was my music geek choice. 
+JC2: And that was the one album on your list I think that nobody wrote about. 
+JP: I had one playlist for a song- 
+JC2: Okay. 
+JP: -and probably should have written about 
+
+","JP",174.7644282,1094.209,1094.379,170
+"170","Popcast4",74,"okay",NA,"1stPerson",NA,NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"okay","JC2: and Black Midi at number nine. 
+JP: Oh yeah, Black Mitty, my- 
+CG: That was a surprise. 
+JP: That was my music geek choice. 
+JC2: And that was the one album on your list I think that nobody wrote about. 
+JP: I had one playlist for a song- 
+JC2: <<okay>> 
+JP: -and probably should have written about the album. The album is this really naughty with a K. I mean, the songs are post-punk jazz rock. 
+
+","JC2",93.85734554,1102.57,1102.81,240
+"171","Popcast4",75,"no",NA,"1stPerson","Present",NA,NA,"None",NA,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"no","JP: jazz rock. It is still a guitar band, but it's going in all these wacky directions. 
+JC1: They're just like a regular band, like they're not like a nine piece or something? 
+JP: <<no>> no, they're not like a nine piece. {LG} They just didn't- 
+JC2: Know Bon Iver. That's a nine piece. 
+JC1: Yeah, yeah. 
+JP: So they're like a standard rock band lineup doing every genre you can think of, live, 
+
+","JP",200.3480133,1120.85612,1120.995,138.8796549
+"172","Popcast4",76,"no","ContentDisagreement","1stPerson","Present","they're just like a regular band like they're not like a nine piece or something",FALSE,"None",FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"no","JP: jazz rock. It is still a guitar band, but it's going in all these wacky directions. 
+JC1: They're just like a regular band, like they're not like a nine piece or something? 
+JP: No, <<no>> they're not like a nine piece. {LG} They just didn't- 
+JC2: Know Bon Iver. That's a nine piece. 
+JC1: Yeah, yeah. 
+JP: So they're like a standard rock band lineup doing every genre you can think of, live, 
+
+","JP",201.0500739,1120.995,1121.254,259
+"173","Popcast4",77,"yeah","ContentAgreement","1stPerson","Present",NA,FALSE,"None",FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"yeah","JP: but it's going in all these wacky directions. 
+JC1: They're just like a regular band, like they're not like a nine piece or something? 
+JP: No, no, they're not like a nine piece. {LG} They just didn't- 
+JC2: Know Bon Iver. That's a nine piece. 
+JC1: <<yeah>> yeah. 
+JP: So they're like a standard rock band lineup doing every genre you can think of, live, real time, dystopian, weird, nasty, 
+
+","JC1",244.8143545,1124.694,1124.934,240
+"174","Popcast4",78,"yeah","ContentAgreement","1stPerson","Present","know bon iver that's a nine piece",FALSE,"None",FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"yeah","JP: it's going in all these wacky directions. 
+JC1: They're just like a regular band, like they're not like a nine piece or something? 
+JP: No, no, they're not like a nine piece. {LG} They just didn't- 
+JC2: Know Bon Iver. That's a nine piece. 
+JC1: Yeah, <<yeah>> 
+JP: So they're like a standard rock band lineup doing every genre you can think of, live, real time, dystopian, weird, nasty, bitter, 
+
+","JC1",140.7711941,1124.934,1125.114,180
+"175","Popcast4",79,"no","NotParticle","1stPerson",NA,NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"no","JP: English post-punk jazz funk, punk, rock. 
+JC2: And the title of your list is 'The Triumph of the Weird,' and I think that -- that really does cover it. Do you want to play a song there or <<no>> 
+JC1: Yeah, play a Black Midi song. 
+JC2: Should we play a Black Midi song? 
+JC1: It'll certainly be the first time I've heard it. {LG} 
+CG: I hate when you say that. 
+JC2: Should we play a Black Midi song, J P? 
+JC1: {LG} Why, you don't want me to be honest about things that I have not heard. 
+
+","JC2",84.33346866,1146.29,1146.5,210
+"176","Popcast4",80,"yeah","Answer","1stPerson","Present","do you want to play a song there or no",FALSE,"None",NA,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"yeah","JP: post-punk jazz funk, punk, rock. 
+JC2: And the title of your list is 'The Triumph of the Weird,' and I think that -- that really does cover it. Do you want to play a song there or no? 
+JC1: <<yeah>> play a Black Midi song. 
+JC2: Should we play a Black Midi song? 
+JC1: It'll certainly be the first time I've heard it. {LG} 
+CG: I hate when you say that. 
+JC2: Should we play a Black Midi song, J P? 
+JC1: {LG} Why, you don't want me to be honest about things that I have not heard. 
+CG: I don't. 
+
+","JC1",304.4496238,1146.899,1147.08,181
+"177","Popcast4",81,"yeah",NA,"1stPerson","Present","we can't listen to everything",FALSE,"None",NA,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"yeah","JC1: it. {LG} 
+CG: I hate when you say that. 
+JC2: Should we play a Black Midi song, J P? 
+JC1: {LG} Why, you don't want me to be honest about things that I have not heard. 
+CG: I don't. {LG} 
+JC1: Caryn! 
+JC2: We can't listen to everything- 
+JC1: <<yeah>> Caryn! I'm -- I'm -- and I'm trying to be transparent here. I'm not going to do this. 
+JC2: This is good -- this is good behind the scenes stuff. 
+JC1: Do you -- do you dislike it because it makes me seem like I don't know what I'm talking about- 
+JC2: {NI} 
+JC1: -yeah, or do you dislike it because 
+
+","JC1",280.2835917,1160.096191,1160.296856,200.665245
+"178","Popcast4",82,NA,"ContentAgreement","1stPerson","Present",NA,FALSE,"None",FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"absolutely","JC1: seem like I don't know what I'm talking about- 
+JC2: {NI} 
+JC1: -yeah, or do you dislike it because it seems like I'm being dismissive of it? 
+CG: {LG} I dislike it because I feel like uh, your role as a critic is I want you to have heard these things. 
+JC1: I <<absolutely>> agree, but hey, Bob Dylan had a lot of records and I just haven't heard them all, soo. 
+JP: You haven't? 
+
+","JC1",193.0330169,1177.45,1178.11,660
+"179","Popcast4",83,"absolutely agree","ContentAgreement","1stPerson","Present","your role as a critic is i want you to have heard these thing",FALSE,"None",FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"agree","JC1: I'm talking about- 
+JC2: {NI} 
+JC1: -yeah, or do you dislike it because it seems like I'm being dismissive of it? 
+CG: {LG} I dislike it because I feel like uh, your role as a critic is I want you to have heard these things. 
+JC1: I absolutely <<agree>> but hey, Bob Dylan had a lot of records and I just haven't heard them all, soo. 
+JP: You haven't? 
+JC1: {LG} 
+CG: Didn't -- didn't I 
+
+","JC1",119.6106739,1178.11,1178.47,360
+"180","Popcast4",84,"yes","Answer","1stPerson","Present","didn't i see you at the beacon",FALSE,"None",NA,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"yes","JC1: hey, Bob Dylan had a lot of records and I just haven't heard them all, soo. 
+JP: You haven't? 
+JC1: {LG} 
+CG: Didn't -- didn't I see you at the Beacon? 
+JC1: <<yes>> Walking out. {LG} 
+JC2: Let's play a Black Midi song, Pedro, thank you. 
+
+","JC1",195.9130268,1188.506143,1188.733764,227.6202779
+"181","Popcast4",85,"right","NotParticle",NA,NA,NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"right","JC2: Caramanica, back on the hot seat. All <<right>> we're going to blow through the rest of your top 10. 
+JC1: I've never sat anywhere not hot. 
+JC2: Romeo Santos, Utopia, Lana Del Rey, Norman Rockwell, we spoke about. Kalie Shorr 
+
+","JC2",92.15541918,1245.642397,1245.909,266.6027405
+"182","Popcast4",86,"yeah",NA,"1stPerson","Present","we can talk about all this stuff",FALSE,"None",FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"yeah","JC2: Romeo Santos, Utopia, Lana Del Rey, Norman Rockwell, we spoke about. Kalie Shorr Open Book at number seven, we can talk about all this stuff- 
+JC1: <<yeah>> 
+JC2: -Baby Keem slash Guapdad Four Thousand. Another- 
+JC1: {CL} 
+JC2: -this is another one where if you look these lists on the New York Times dot com, most of them are linked to previous 
+
+","JC1",94.01550963,1258.955,1259.135,180
+"183","Popcast4",87,"yes",NA,"1stPerson","Present","this one like black midi not linked to previous coverage",FALSE,"None",NA,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"yes","JC2: these lists on the New York Times dot com, most of them are linked to previous coverage- 
+JC1: {LG} 
+CG: {LG} 
+JC2: -this one like Black Midi, not linked to previous coverage. 
+JC1: <<yes>> 
+JC2: We'll talk about those 
+
+","JC1",NA,1275.165,1275.435,270
+"184","Popcast5",1,"well","Well",NA,"Present","is this the ninth best album of the year",FALSE,"None",FALSE,TRUE,"now i guess","Present","1st","it's like the eleventh","None",FALSE,FALSE,"best","PPT",NA,NA,NA,"well","JC2: dismayed, she may have talked -- tried to talk you out of it, if she was a different kind of editor, 'Jesus is King' by Kanye West. Is this the ninth best album of the year? 
+JC1: <<well>> now I guess it's like the eleventh {LG} That's not right! 
+CG: That answers the other question, go on. 
+JC1: So th- I think the blurb kind of like captures 
+
+",NA,NA,NA,NA,NA
+"185","Popcast5",2,"right","NotParticle",NA,NA,NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"right","JC2: of editor, 'Jesus is King' by Kanye West. Is this the ninth best album of the year? 
+JC1: Well, now I guess it's like the eleventh {LG} That's not <<right>> 
+CG: That answers the other question, go on. 
+JC1: So th- I think the blurb kind of like captures the attitude that I wanted to convey 
+
+",NA,NA,NA,NA,NA
+"186","Popcast5",3,"yes","ContentAgreement","1stPerson","Present","which was also your take in your album review",FALSE,"None",FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"yes","JC1: like captures the attitude that I wanted to convey by putting this record on the list. 
+JC2: Which was also your take in your album review- 
+JC1: <<yes>> 
+JC2: -which is that this is old Kanye. 
+JC1: Yeah, so- 
+JC2: Except- 
+JC1: Do you think it's bad? It is perceived as bad. 
+JC2: No, I'm not saying it's bad. I'm saying that it lacks the 
+
+",NA,NA,NA,NA,NA
+"187","Popcast5",4,"yeah","Phatic",NA,NA,NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"yeah","JC1: the attitude that I wanted to convey by putting this record on the list. 
+JC2: Which was also your take in your album review- 
+JC1: Yes! 
+JC2: -which is that this is old Kanye. 
+JC1: <<yeah>> so- 
+JC2: Except- 
+JC1: Do you think it's bad? It is perceived as bad. 
+JC2: No, I'm not saying it's bad. I'm saying that it lacks the internal tensions of old Kanye. 
+
+",NA,NA,NA,NA,NA
+"188","Popcast5",5,"no","Answer","1stPerson","Present","do you think it's bad",FALSE,"None",FALSE,TRUE,NA,NA,NA,NA,NA,FALSE,FALSE,"bad","PPT",NA,NA,NA,"no","JC2: Which was also your take in your album review- 
+JC1: Yes! 
+JC2: -which is that this is old Kanye. 
+JC1: Yeah, so- 
+JC2: Except- 
+JC1: Do you think it's bad? It is perceived as bad. 
+JC2: <<no>> I'm not saying it's bad. I'm saying that it lacks the internal tensions of old Kanye. It's one note. 
+JC1: Structur- -- yes, some of the structural tricks 
+
+",NA,NA,NA,NA,NA
+"189","Popcast5",6,"yes","ContentAgreement","1stPerson","Present","it lacks the internal tensions of old kanye",TRUE,"None",FALSE,FALSE,"i'm saying that","Present","1st",NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"yes","JC1: It is perceived as bad. 
+JC2: No, I'm not saying it's bad. I'm saying that it lacks the internal tensions of old Kanye. It's one note. 
+JC1: Structur- <<yes>> some of the structural tricks and tics are there. Now, I perhaps more than other critics have extended Kanye, 
+
+",NA,NA,NA,NA,NA
+"190","Popcast5",7,"fair","NotParticle",NA,NA,NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"fair","JC1: some of the structural tricks and tics are there. Now, I perhaps more than other critics have extended Kanye, a <<fair>> amount of credit- 
+JC2: {LG} 
+JC1: over the last five years. 
+JP: Wait, wait, let's face it, you are Kanye's Deutsche Bank. 
+JC2: Oh! J P! 
+JC1: Wow, J P throwing down. 
+CG: J P is 
+
+",NA,NA,NA,NA,NA
+"191","Popcast5",8,"wait","Phatic",NA,NA,NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"wait","JC1: tics are there. Now, I perhaps more than other critics have extended Kanye, a fair amount of credit- 
+JC2: {LG} 
+JC1: over the last five years. 
+JP: <<wait>> wait, let's face it, you are Kanye's Deutsche Bank. 
+JC2: Oh! J P! 
+JC1: Wow, J P throwing down. 
+CG: J P is getting a raise. 
+JC2: When I- 
+JC1: {LG} 
+JC2: When I, like -- I did 
+
+",NA,NA,NA,NA,NA
+"192","Popcast5",10,"oh","BehaviorSurprise","1stPerson","Present","you are kanye's deutsche bank",FALSE,"None",FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"oh","JC1: I perhaps more than other critics have extended Kanye, a fair amount of credit- 
+JC2: {LG} 
+JC1: over the last five years. 
+JP: Wait, wait, let's face it, you are Kanye's Deutsche Bank. 
+JC2: <<oh>> J P! 
+JC1: Wow, J P throwing down. 
+CG: J P is getting a raise. 
+JC2: When I- 
+JC1: {LG} 
+JC2: When I, like -- I did the -- like, the pit bull thing where I like, sicked you guys at each other- 
+JC1: Yeah. 
+
+",NA,NA,NA,NA,NA
+"193","Popcast5",11,"wow","BehaviorSurprise","1stPerson","Present","you are kanye's deutsche bank",FALSE,"None",FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"wow","JC1: have extended Kanye, a fair amount of credit- 
+JC2: {LG} 
+JC1: over the last five years. 
+JP: Wait, wait, let's face it, you are Kanye's Deutsche Bank. 
+JC2: Oh! J P! 
+JC1: <<wow>> J P throwing down. 
+CG: J P is getting a raise. 
+JC2: When I- 
+JC1: {LG} 
+JC2: When I, like -- I did the -- like, the pit bull thing where I like, sicked you guys at each other- 
+JC1: Yeah. 
+JC2: -while holding your collars- 
+JC1: Yeah yeah. 
+CG: Yeah. 
+JC2: -and then let 
+
+",NA,NA,NA,NA,NA
+"194","Popcast5",12,"yeah","Backchannel",NA,"Present","when i like  i did the  like the pit bull thing where i like sicked you guys at each other",FALSE,"None",FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"yeah","JC2: Oh! J P! 
+JC1: Wow, J P throwing down. 
+CG: J P is getting a raise. 
+JC2: When I- 
+JC1: {LG} 
+JC2: When I, like -- I did the -- like, the pit bull thing where I like, sicked you guys at each other- 
+JC1: <<yeah>> 
+JC2: -while holding your collars- 
+JC1: Yeah yeah. 
+CG: Yeah. 
+JC2: -and then let you go. 
+JC1: Yes. 
+JC2: Like, I didn't realize that he was going to bite so hard. 
+JC1: It's fine. I think that an artist can go through their career and 
+
+",NA,NA,NA,NA,NA
+"195","Popcast5",13,"yeah","Backchannel",NA,"Present","while holding your collars",FALSE,"None",FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"yeah","JC2: J P! 
+JC1: Wow, J P throwing down. 
+CG: J P is getting a raise. 
+JC2: When I- 
+JC1: {LG} 
+JC2: When I, like -- I did the -- like, the pit bull thing where I like, sicked you guys at each other- 
+JC1: Yeah. 
+JC2: -while holding your collars- 
+JC1: <<yeah>> yeah. 
+CG: Yeah. 
+JC2: -and then let you go. 
+JC1: Yes. 
+JC2: Like, I didn't realize that he was going to bite so hard. 
+JC1: It's fine. I think that an artist can go through their career and make different 
+
+",NA,NA,NA,NA,NA
+"196","Popcast5",15,"yeah","Backchannel",NA,"Present","while holding your collars",FALSE,"None",FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"yeah","JC2: J P! 
+JC1: Wow, J P throwing down. 
+CG: J P is getting a raise. 
+JC2: When I- 
+JC1: {LG} 
+JC2: When I, like -- I did the -- like, the pit bull thing where I like, sicked you guys at each other- 
+JC1: Yeah. 
+JC2: -while holding your collars- 
+JC1: Yeah yeah. 
+CG: <<yeah>> 
+JC2: -and then let you go. 
+JC1: Yes. 
+JC2: Like, I didn't realize that he was going to bite so hard. 
+JC1: It's fine. I think that an artist can go through their career and make different 
+
+",NA,NA,NA,NA,NA
+"197","Popcast5",16,"yes","Backchannel",NA,"Present","and then let you go",FALSE,"None",FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"yes","JC1: throwing down. 
+CG: J P is getting a raise. 
+JC2: When I- 
+JC1: {LG} 
+JC2: When I, like -- I did the -- like, the pit bull thing where I like, sicked you guys at each other- 
+JC1: Yeah. 
+JC2: -while holding your collars- 
+JC1: Yeah yeah. 
+CG: Yeah. 
+JC2: -and then let you go. 
+JC1: <<yes>> 
+JC2: Like, I didn't realize that he was going to bite so hard. 
+JC1: It's fine. I think that an artist can go through their career and make different style music 
+
+",NA,NA,NA,NA,NA
+"198","Popcast5",17,"it's fine","Phatic",NA,NA,NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"fine","JC2: When I, like -- I did the -- like, the pit bull thing where I like, sicked you guys at each other- 
+JC1: Yeah. 
+JC2: -while holding your collars- 
+JC1: Yeah yeah. 
+CG: Yeah. 
+JC2: -and then let you go. 
+JC1: Yes. 
+JC2: Like, I didn't realize that he was going to bite so hard. 
+JC1: It's <<fine>> I think that an artist can go through their career and make different style music with different expectations at different 
+
+",NA,NA,NA,NA,NA
+"199","Popcast5",18,"okay","BehaviorSurprise","1stPerson","Present","i skipped most of those",FALSE,"None",FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"okay","JC1: up some nineties Dylan reviews of some trash Dylan record. {LG} 
+CG: That doesn't mean that Dylan didn't make trash records. 
+JC1: I know! {LG} 
+JP: I- I- I- skipped most of those. 
+JC1: <<okay>> You're throwing Ben Ratliff under the bus. 
+JC2: Time's passed. 
+JC1: So, I feel like I am open to 
+
+",NA,NA,NA,NA,NA
+"200","Popcast5",19,"oh","Phatic",NA,NA,NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"oh","JC1: ears, which is if I received this music cold, not knowing where it came from, how would I react to it emotionally? And then you learn on top of that. <<oh>> it comes with all this additional noise, baggage, and so and so forth.' So, much of this record I think if I heard cold, coming from elsewhere, I would think was very good. 
+
+",NA,NA,NA,NA,NA
+"201","Popcast5",20,"truly","NotParticle",NA,NA,NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"truly","JC1: is trying to listen to Kanye West in that way at this moment. That's a choice I respect, it just is not the choice I choose. 
+CG: I <<truly>> love you, Jon, you could not be more wrong- 
+JC1: Thank you. 
+-  CG: and it's killing me. Absolutely killing me. 
+JP: I want to say though -- I want to say, I mean, the idea of listening to something as if it's -- if it's 
+
+",NA,NA,NA,NA,NA
+"202","Popcast5",21,"absolutely","NotParticle",NA,NA,NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"absolutely","JC1: moment. That's a choice I respect, it just is not the choice I choose. 
+CG: I truly love you, Jon, you could not be more wrong- 
+JC1: Thank you. 
+-  CG: and it's killing me. <<absolutely>> killing me. 
+JP: I want to say though -- I want to say, I mean, the idea of listening to something as if it's -- if it's baggage free is really the way I try to listen to music too. I agree with you on that. 
+JC1: Mhm. 
+JC2: It's a really 
+
+",NA,NA,NA,NA,NA
+"203","Popcast5",22,"i agree","ContentAgreement","1stPerson","Distant",NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"agree","-  CG: me. Absolutely killing me. 
+JP: I want to say though -- I want to say, I mean, the idea of listening to something as if it's -- if it's baggage free is really the way I try to listen to music too. I <<agree>> with you on that. 
+JC1: Mhm. 
+JC2: It's a really -- it's an interesting point and I'm happy that we're having this conversation. 
+JC1: Yeah. 
+CG: It is, but I believe that if you listened to this album, not knowing who the artist was, having never heard anything before that you would've thrown it in the garbage. 
+
+",NA,NA,NA,NA,NA
+"204","Popcast5",23,"mhm","BehaviorAgreement","1stPerson","Present","the idea of listening to something as if it's  if it's baggage free is really the way i try to listen to music too",FALSE,"None",FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"mhm","-  CG: Absolutely killing me. 
+JP: I want to say though -- I want to say, I mean, the idea of listening to something as if it's -- if it's baggage free is really the way I try to listen to music too. I agree with you on that. 
+JC1: <<mhm>> 
+JC2: It's a really -- it's an interesting point and I'm happy that we're having this conversation. 
+JC1: Yeah. 
+CG: It is, but I believe that if you listened to this album, not knowing who the artist was, having never heard anything before that you would've thrown it in the garbage. I think- 
+
+",NA,NA,NA,NA,NA
+"205","Popcast5",24,"interesting","NotParticle",NA,NA,NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"interesting","-  CG: killing me. 
+JP: I want to say though -- I want to say, I mean, the idea of listening to something as if it's -- if it's baggage free is really the way I try to listen to music too. I agree with you on that. 
+JC1: Mhm. 
+JC2: It's a really -- it's an <<interesting>> point and I'm happy that we're having this conversation. 
+JC1: Yeah. 
+CG: It is, but I believe that if you listened to this album, not knowing who the artist was, having never heard anything before that you would've thrown it in the garbage. I think- 
+JC1: Just the Chick-Fil-A song. 
+
+",NA,NA,NA,NA,NA
+"206","Popcast5",25,"yeah","ContentAgreement","1stPerson","Present","it's an interesting point and i'm happy that we're having this conversation",FALSE,"None",FALSE,TRUE,NA,NA,NA,NA,NA,FALSE,FALSE,"interesting","PPT",NA,NA,NA,"yeah","JP: listening to something as if it's -- if it's baggage free is really the way I try to listen to music too. I agree with you on that. 
+JC1: Mhm. 
+JC2: It's a really -- it's an interesting point and I'm happy that we're having this conversation. 
+JC1: <<yeah>> 
+CG: It is, but I believe that if you listened to this album, not knowing who the artist was, having never heard anything before that you would've thrown it in the garbage. I think- 
+JC1: Just the Chick-Fil-A song. 
+CG: No! 
+JC1: The Chick-Fil- 
+
+",NA,NA,NA,NA,NA
+"207","Popcast5",26,"no","BehaviorDisagreement","1stPerson","Present","just the chickfila song",FALSE,"None",FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"no","JC2: point and I'm happy that we're having this conversation. 
+JC1: Yeah. 
+CG: It is, but I believe that if you listened to this album, not knowing who the artist was, having never heard anything before that you would've thrown it in the garbage. I think- 
+JC1: Just the Chick-Fil-A song. 
+CG: <<no>> 
+JC1: The Chick-Fil- a song. 
+CG: All but one. 
+JC1: No. 
+CG: I really don't think that you would have liked this record. I really don't. 
+JC1: We'll never know. 
+CG: Yes, it's true. 
+JC1: But, to me, that is- 
+
+",NA,NA,NA,NA,NA
+"208","Popcast5",27,"no","BehaviorDisagreement","1stPerson","Present","all but one",FALSE,"None",FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"no","CG: you listened to this album, not knowing who the artist was, having never heard anything before that you would've thrown it in the garbage. I think- 
+JC1: Just the Chick-Fil-A song. 
+CG: No! 
+JC1: The Chick-Fil- a song. 
+CG: All but one. 
+JC1: <<no>> 
+CG: I really don't think that you would have liked this record. I really don't. 
+JC1: We'll never know. 
+CG: Yes, it's true. 
+JC1: But, to me, that is- 
+JC2: It's an exercise. It's a thought exercise for sure. 
+
+",NA,NA,NA,NA,NA
+"209","Popcast5",28,"yes","Phatic",NA,NA,NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"yes","CG: would've thrown it in the garbage. I think- 
+JC1: Just the Chick-Fil-A song. 
+CG: No! 
+JC1: The Chick-Fil- a song. 
+CG: All but one. 
+JC1: No. 
+CG: I really don't think that you would have liked this record. I really don't. 
+JC1: We'll never know. 
+CG: <<yes>> it's true. 
+JC1: But, to me, that is- 
+JC2: It's an exercise. It's a thought exercise for sure. 
+JC1: It's -- it's -- I think, look, the worst thing that can happen to 
+
+",NA,NA,NA,NA,NA
+"210","Popcast5",29,"true","NotParticle",NA,NA,NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"true","CG: garbage. I think- 
+JC1: Just the Chick-Fil-A song. 
+CG: No! 
+JC1: The Chick-Fil- a song. 
+CG: All but one. 
+JC1: No. 
+CG: I really don't think that you would have liked this record. I really don't. 
+JC1: We'll never know. 
+CG: Yes, it's <<true>> 
+JC1: But, to me, that is- 
+JC2: It's an exercise. It's a thought exercise for sure. 
+JC1: It's -- it's -- I think, look, the worst thing that can happen to a critic 
+
+",NA,NA,NA,NA,NA
+"211","Popcast5",30,"sure","NotParticle",NA,NA,NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"sure","CG: but one. 
+JC1: No. 
+CG: I really don't think that you would have liked this record. I really don't. 
+JC1: We'll never know. 
+CG: Yes, it's true. 
+JC1: But, to me, that is- 
+JC2: It's an exercise. It's a thought exercise for <<sure>> 
+JC1: It's -- it's -- I think, look, the worst thing that can happen to a critic is ossification. The worst thing that can happen to a critic is believing that you 
+
+",NA,NA,NA,NA,NA
+"212","Popcast5",31,"yes","BehaviorAgreement","1stPerson","Present","how much generosity",FALSE,"None",FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"yes","JC1: ways that it surprised me. 
+CG: I then -- I invite you to listen to 'Madame X'. 
+JC1: I understand I am out here. 
+CG: And I'm curious to see what your, what your opinion of it would be. 
+JC2: How much generosity- 
+CG: <<yes>> 
+JC2: -are we in the spirit of extending this holiday season? 
+JC1: {LG} 
+CG: Just- 
+JC1: Do we have to have like a special addendum to this Popcast where I just talk about 'Madame X' for ten 
+
+",NA,NA,NA,NA,NA
+"213","Popcast5",32,"yes","Phatic",NA,NA,NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"yes","JC2: holiday season? 
+JC1: {LG} 
+CG: Just- 
+JC1: Do we have to have like a special addendum to this Popcast where I just talk about 'Madame X' for ten minutes? 
+JC2: If you -- to squash this with Caryn. 
+JC1: <<yes>> Okay, fine. Bonus edition 
+CG: For the record, it's terrible. 
+JC1: {LG} 
+CG: Just -- I want a Madonna album to be good. 
+JC2: Are you saying that you have a similar relationship to Madonna that 
+
+",NA,NA,NA,NA,NA
+"214","Popcast5",33,"okay","Phatic",NA,NA,NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"okay","JC2: season? 
+JC1: {LG} 
+CG: Just- 
+JC1: Do we have to have like a special addendum to this Popcast where I just talk about 'Madame X' for ten minutes? 
+JC2: If you -- to squash this with Caryn. 
+JC1: Yes. <<okay>> fine. Bonus edition 
+CG: For the record, it's terrible. 
+JC1: {LG} 
+CG: Just -- I want a Madonna album to be good. 
+JC2: Are you saying that you have a similar relationship to Madonna that Jon 
+
+",NA,NA,NA,NA,NA
+"215","Popcast5",34,"fine","Phatic",NA,NA,NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"fine","JC2: season? 
+JC1: {LG} 
+CG: Just- 
+JC1: Do we have to have like a special addendum to this Popcast where I just talk about 'Madame X' for ten minutes? 
+JC2: If you -- to squash this with Caryn. 
+JC1: Yes. Okay, <<fine>> Bonus edition 
+CG: For the record, it's terrible. 
+JC1: {LG} 
+CG: Just -- I want a Madonna album to be good. 
+JC2: Are you saying that you have a similar relationship to Madonna that Jon has 
+
+",NA,NA,NA,NA,NA
+"216","Popcast5",35,"yes","Answer","1stPerson","Present","are you saying that you have a similar relationship to madonna that jon has to kanye",FALSE,"None",FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"yes","CG: For the record, it's terrible. 
+JC1: {LG} 
+CG: Just -- I want a Madonna album to be good. 
+JC2: Are you saying that you have a similar relationship to Madonna that Jon has to Kanye? <<yes>> 
+JC1: Wait, but while we're going down this road, can we just say that there are people that Caryn stans that I'm allowed to dislike, and there are people that Caryn stans that I'm not allowed to dislike. 
+JC2: By whose rules? 
+JC1: By Caryn's 
+
+",NA,NA,NA,NA,NA
+"217","Popcast5",36,"wait","Phatic",NA,NA,NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"wait","CG: record, it's terrible. 
+JC1: {LG} 
+CG: Just -- I want a Madonna album to be good. 
+JC2: Are you saying that you have a similar relationship to Madonna that Jon has to Kanye? Yes. 
+JC1: <<wait>> but while we're going down this road, can we just say that there are people that Caryn stans that I'm allowed to dislike, and there are people that Caryn stans that I'm not allowed to dislike. 
+JC2: By whose rules? 
+JC1: By Caryn's rules. 
+
+",NA,NA,NA,NA,NA
+"218","Popcast5",37,"sure","NotParticle",NA,NA,NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"sure","JC1: road, can we just say that there are people that Caryn stans that I'm allowed to dislike, and there are people that Caryn stans that I'm not allowed to dislike. 
+JC2: By whose rules? 
+JC1: By Caryn's rules. 
+CG: I'm not <<sure>> that's true. What- who are we talking about? 
+JC1: Oh, it's true! What do you mean you're not sure if it's true? It's definitely true. 
+CG: Now you're releasing the chats? What is happening? 
+JC2: All right, 
+
+",NA,NA,NA,NA,NA
+"219","Popcast5",38,"true","NotParticle",NA,NA,NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"true","JC1: can we just say that there are people that Caryn stans that I'm allowed to dislike, and there are people that Caryn stans that I'm not allowed to dislike. 
+JC2: By whose rules? 
+JC1: By Caryn's rules. 
+CG: I'm not sure that's <<true>> What- who are we talking about? 
+JC1: Oh, it's true! What do you mean you're not sure if it's true? It's definitely true. 
+CG: Now you're releasing the chats? What is happening? 
+JC2: All right, I feel like 
+
+",NA,NA,NA,NA,NA
+"220","Popcast5",39,"oh","BehaviorSurprise","1stPerson","Present","i'm not sure that's true what who are we talking about",FALSE,"None",FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"oh","JC1: Caryn stans that I'm allowed to dislike, and there are people that Caryn stans that I'm not allowed to dislike. 
+JC2: By whose rules? 
+JC1: By Caryn's rules. 
+CG: I'm not sure that's true. What- who are we talking about? 
+JC1: <<oh>> it's true! What do you mean you're not sure if it's true? It's definitely true. 
+CG: Now you're releasing the chats? What is happening? 
+JC2: All right, I feel like we've held Caramanica's feet to the 
+
+",NA,NA,NA,NA,NA
+"221","Popcast5",40,"true","NotParticle",NA,NA,NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"true","JC1: stans that I'm allowed to dislike, and there are people that Caryn stans that I'm not allowed to dislike. 
+JC2: By whose rules? 
+JC1: By Caryn's rules. 
+CG: I'm not sure that's true. What- who are we talking about? 
+JC1: Oh, it's <<true>> What do you mean you're not sure if it's true? It's definitely true. 
+CG: Now you're releasing the chats? What is happening? 
+JC2: All right, I feel like we've held Caramanica's feet to the fire on this 
+
+",NA,NA,NA,NA,NA
+"222","Popcast5",41,"sure","NotParticle",NA,NA,NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"sure","JC1: and there are people that Caryn stans that I'm not allowed to dislike. 
+JC2: By whose rules? 
+JC1: By Caryn's rules. 
+CG: I'm not sure that's true. What- who are we talking about? 
+JC1: Oh, it's true! What do you mean you're not <<sure>> if it's true? It's definitely true. 
+CG: Now you're releasing the chats? What is happening? 
+JC2: All right, I feel like we've held Caramanica's feet to the fire on this long enough. I will go out with one- 
+JC1: Read 
+
+",NA,NA,NA,NA,NA
+"223","Popcast5",42,"true","NotParticle",NA,NA,NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"true","JC1: people that Caryn stans that I'm not allowed to dislike. 
+JC2: By whose rules? 
+JC1: By Caryn's rules. 
+CG: I'm not sure that's true. What- who are we talking about? 
+JC1: Oh, it's true! What do you mean you're not sure if it's <<true>> It's definitely true. 
+CG: Now you're releasing the chats? What is happening? 
+JC2: All right, I feel like we've held Caramanica's feet to the fire on this long enough. I will go out with one- 
+JC1: Read the rest -- wait, read the 
+
+",NA,NA,NA,NA,NA
+"224","Popcast5",43,"true","NotParticle",NA,NA,NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"true","JC1: to dislike. 
+JC2: By whose rules? 
+JC1: By Caryn's rules. 
+CG: I'm not sure that's true. What- who are we talking about? 
+JC1: Oh, it's true! What do you mean you're not sure if it's true? It's definitely <<true>> 
+CG: Now you're releasing the chats? What is happening? 
+JC2: All right, I feel like we've held Caramanica's feet to the fire on this long enough. I will go out with one- 
+JC1: Read the rest -- wait, read the rest of my list. 
+JC2: I will, I will, I want --  I want to go out with 
+
+",NA,NA,NA,NA,NA
+"225","Popcast5",44,"all right","Phatic",NA,NA,NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"right","CG: sure that's true. What- who are we talking about? 
+JC1: Oh, it's true! What do you mean you're not sure if it's true? It's definitely true. 
+CG: Now you're releasing the chats? What is happening? 
+JC2: All <<right>> I feel like we've held Caramanica's feet to the fire on this long enough. I will go out with one- 
+JC1: Read the rest -- wait, read the rest of my list. 
+JC2: I will, I will, I want --  I want to go out with one more question about this album par- -- in particular. 
+JC1: Yes? 
+JC2: What is 
+
+",NA,NA,NA,NA,NA
+"226","Popcast5",45,"wait","Phatic",NA,NA,NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"wait","JC1: it's true? It's definitely true. 
+CG: Now you're releasing the chats? What is happening? 
+JC2: All right, I feel like we've held Caramanica's feet to the fire on this long enough. I will go out with one- 
+JC1: Read the rest <<wait>> read the rest of my list. 
+JC2: I will, I will, I want --  I want to go out with one more question about this album par- -- in particular. 
+JC1: Yes? 
+JC2: What is the defining song from 'Jesus Is King'? 
+JC1: 'Is it really better than Ten K Cash?' {LG} 'Is that -- is it one 
+
+",NA,NA,NA,NA,NA
+"227","Popcast5",46,"yes","BehaviorAgreement","1stPerson","Present","i will i want   i want to go out with one more question about this album par  in particular",FALSE,"None",FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"yes","CG: happening? 
+JC2: All right, I feel like we've held Caramanica's feet to the fire on this long enough. I will go out with one- 
+JC1: Read the rest -- wait, read the rest of my list. 
+JC2: I will, I will, I want --  I want to go out with one more question about this album par- -- in particular. 
+JC1: <<yes>> 
+JC2: What is the defining song from 'Jesus Is King'? 
+JC1: 'Is it really better than Ten K Cash?' {LG} 'Is that -- is it one slot better?' 
+JC2: 'Is it one slot better?' No, what is the defining song from 'Jesus is King', to you. 
+
+",NA,NA,NA,NA,NA
+"228","Popcast5",47,"no","ContentDisagreement","1stPerson","Present","'is that  is it one slot better'",FALSE,"None",FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"no","JC2: out with one more question about this album par- -- in particular. 
+JC1: Yes? 
+JC2: What is the defining song from 'Jesus Is King'? 
+JC1: 'Is it really better than Ten K Cash?' {LG} 'Is that -- is it one slot better?' 
+JC2: 'Is it one slot better?' <<no>> what is the defining song from 'Jesus is King', to you. 
+JC1: It's either 'Use This Gospel' or 'Hands On'. 'Use This Gospel', to me -- look, nothing is ever 
+
+",NA,NA,NA,NA,NA
+"229","Popcast5",48,"right","NotParticle",NA,NA,NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"right","JC1: like the best song of -- all time? Like, you know, it's -- I mean it's -- I'm getting, I literally feel, like, a breeze going over me <<right>> now just thinking about that song. 'Use This Gospel' structurally functions similarly. Take some disparate parts, 
+
+",NA,NA,NA,NA,NA
+"230","Popcast5",49,"yes","ContentAgreement","OwnKnowledge","Present","they're not the chance verse",FALSE,"None",FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"yes","JC1: parts, puts them together in service of one greater spiritual message. I don't love the Clipse verses on here, but there -- there's moments on them. 
+JC2: They're not the Chance verse. 
+JC1: <<yes>> Uh, no. Well, no, but what is, though? I mean that's -- Chance has never had a ver -- I mean, on no Chance album, is there a verse as good as that -- as that Chance verse. The Kenny G thing. Sublime, 
+
+",NA,NA,NA,NA,NA
+"231","Popcast5",50,"no","ContentDisagreement","OwnKnowledge","Present","they're not the chance verse",FALSE,"None",FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"no","JC1: puts them together in service of one greater spiritual message. I don't love the Clipse verses on here, but there -- there's moments on them. 
+JC2: They're not the Chance verse. 
+JC1: Yes. Uh, <<no>> Well, no, but what is, though? I mean that's -- Chance has never had a ver -- I mean, on no Chance album, is there a verse as good as that -- as that Chance verse. The Kenny G thing. Sublime, transcendent, 
+
+",NA,NA,NA,NA,NA
+"232","Popcast5",51,"well","Well",NA,"Present","they're not the chance verse",FALSE,"None",FALSE,FALSE,NA,NA,NA,"no but what is though","None",FALSE,FALSE,NA,NA,NA,NA,NA,"well","JC1: puts them together in service of one greater spiritual message. I don't love the Clipse verses on here, but there -- there's moments on them. 
+JC2: They're not the Chance verse. 
+JC1: Yes. Uh, no. <<well>> no, but what is, though? I mean that's -- Chance has never had a ver -- I mean, on no Chance album, is there a verse as good as that -- as that Chance verse. The Kenny G thing. Sublime, transcendent, 
+
+",NA,NA,NA,NA,NA
+"233","Popcast5",52,"no","NotParticle",NA,NA,NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"no","JC1: puts them together in service of one greater spiritual message. I don't love the Clipse verses on here, but there -- there's moments on them. 
+JC2: They're not the Chance verse. 
+JC1: Yes. Uh, no. Well, <<no>> but what is, though? I mean that's -- Chance has never had a ver -- I mean, on no Chance album, is there a verse as good as that -- as that Chance verse. The Kenny G thing. Sublime, transcendent, 
+
+",NA,NA,NA,NA,NA
+"234","Popcast5",53,"no","NotParticle",NA,NA,NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"no","JC1: love the Clipse verses on here, but there -- there's moments on them. 
+JC2: They're not the Chance verse. 
+JC1: Yes. Uh, no. Well, no, but what is, though? I mean that's -- Chance has never had a ver -- I mean, on <<no>> Chance album, is there a verse as good as that -- as that Chance verse. The Kenny G thing. Sublime, transcendent, actually objectively good. The way that all of these things 
+
+",NA,NA,NA,NA,NA
+"235","Popcast5",54,"wow","NotParticle",NA,NA,NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"wow","JC1: pasted together. Very Kanye, so to me that's probably the most complete song on here. I mean look, 'Water' is a phenomenal record to me. <<wow>> 'Hands On' feels very, like, in the sort of, like, uptempo nineties to two thousands gospel tradition. Like I liked that, but probably 'Use This Gospel' is the one that, 
+
+",NA,NA,NA,NA,NA
+"236","Popcast5",55,"yes","BehaviorAgreement","1stPerson","Present","but if it's the second best version that kanye himself has made is it  can it be a defining song you don't have to answer that we can move on",FALSE,"None",FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"yes","JC1: hear it, like really, really sets a fire. 
+JC2: But if it's the second best version that Kanye himself has made, is it -- can it be a defining song? You don't have to answer that. We can move on. 
+JC1: <<yes>> Yes! 
+CG: It is the best -- that is the song I was referring to as the only good song on the album. So, that is the one. 
+JC1: Okay. At least we got it, but -- and again, it's one -- one click better than Ten K Cash. 
+JC2: Okay. So 'Jesus 
+
+",NA,NA,NA,NA,NA
+"237","Popcast5",57,"okay","Phatic",NA,NA,NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"okay","JC2: Kanye himself has made, is it -- can it be a defining song? You don't have to answer that. We can move on. 
+JC1: Yes. Yes! 
+CG: It is the best -- that is the song I was referring to as the only good song on the album. So, that is the one. 
+JC1: <<okay>> At least we got it, but -- and again, it's one -- one click better than Ten K Cash. 
+JC2: Okay. So 'Jesus is King' by Kanye West, {LG} a little bit better than 'The Creator' by 
+
+",NA,NA,NA,NA,NA
+"238","Popcast5",58,"okay","Phatic",NA,NA,NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"okay","JC2: You don't have to answer that. We can move on. 
+JC1: Yes. Yes! 
+CG: It is the best -- that is the song I was referring to as the only good song on the album. So, that is the one. 
+JC1: Okay. At least we got it, but -- and again, it's one -- one click better than Ten K Cash. 
+JC2: <<okay>> So 'Jesus is King' by Kanye West, {LG} a little bit better than 'The Creator' by Ten K Cash. 
+JC1: We're gonna have to play a Ten K Cash song. 
+JC2: All right. The rest of your list, Ariana 
+
+",NA,NA,NA,NA,NA
+"239","Popcast5",59,"all right","Phatic",NA,NA,NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"right","JC1: click better than Ten K Cash. 
+JC2: Okay. So 'Jesus is King' by Kanye West, {LG} a little bit better than 'The Creator' by Ten K Cash. 
+JC1: We're gonna have to play a Ten K Cash song. 
+JC2: All <<right>> The rest of your list, Ariana Grande, 'Thank You, Next', Summer Walker, 'Over It'. Benny the Butcher, 'The Plugs I Met'- 
+JC1: Really, really good record. 
+JC2: That's some rap. Use that gospel. 
+JC1: Yes. 
+
+",NA,NA,NA,NA,NA
+"240","Popcast5",60,"yes","ContentAgreement","1stPerson","Present","that's some rap use that gospel",FALSE,"None",FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"yes","JC1: song. 
+JC2: All right. The rest of your list, Ariana Grande, 'Thank You, Next', Summer Walker, 'Over It'. Benny the Butcher, 'The Plugs I Met'- 
+JC1: Really, really good record. 
+JC2: That's some rap. Use that gospel. 
+JC1: <<yes>> True -- uh, true story for rap Twitter. 
+JC2: And then number fourteen, Taylor Swift's 'Lover'. What do you want to talk about from the rest of this list? 
+JC1: We -- first of all, we have to talk about Ten K Cash. 
+
+",NA,NA,NA,NA,NA
+"241","Popcast5",61,"true","ContentAgreement","1stPerson","Present","that's some rap",FALSE,"None",FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"true","JC2: The rest of your list, Ariana Grande, 'Thank You, Next', Summer Walker, 'Over It'. Benny the Butcher, 'The Plugs I Met'- 
+JC1: Really, really good record. 
+JC2: That's some rap. Use that gospel. 
+JC1: Yes. <<true>> -- uh, true story for rap Twitter. 
+JC2: And then number fourteen, Taylor Swift's 'Lover'. What do you want to talk about from the rest of this list? 
+JC1: We -- first of all, we have to talk about Ten K Cash. 
+
+",NA,NA,NA,NA,NA
+"242","Popcast5",62,"true","NotParticle",NA,NA,NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"true","JC2: Ariana Grande, 'Thank You, Next', Summer Walker, 'Over It'. Benny the Butcher, 'The Plugs I Met'- 
+JC1: Really, really good record. 
+JC2: That's some rap. Use that gospel. 
+JC1: Yes. True -- uh, <<true>> story for rap Twitter. 
+JC2: And then number fourteen, Taylor Swift's 'Lover'. What do you want to talk about from the rest of this list? 
+JC1: We -- first of all, we have to talk about Ten K Cash. Ten 
+
+",NA,NA,NA,NA,NA
+"243","Popcast5",63,"yes","ContentAgreement","1stPerson","Present","not twentyfour k golden different rapper",FALSE,"None",TRUE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"yes","JC1: get around to writing this year. I felt even just saying it, like, I don't want to put it out in the world cause that's -- but I would still like to write this story. 10 K Cash- 
+JC2: Not Twenty-Four K Golden, different rapper. 
+JC1: <<yes>> and not Two K Baby. 
+JC2: Right. 
+JC1: Ten K Cash is -- I'm not even sure Ten K Cash is a rapper. I don't really know what -- he's just like -- a kid who's good on Triller 
+
+",NA,NA,NA,NA,NA
+"244","Popcast5",64,"right","ContentAgreement","1stPerson","Present","not two k baby",TRUE,"None",TRUE,FALSE,"yes and","None","None",NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"right","JC1: felt even just saying it, like, I don't want to put it out in the world cause that's -- but I would still like to write this story. 10 K Cash- 
+JC2: Not Twenty-Four K Golden, different rapper. 
+JC1: Yes and not Two K Baby. 
+JC2: <<right>> 
+JC1: Ten K Cash is -- I'm not even sure Ten K Cash is a rapper. I don't really know what -- he's just like -- a kid who's good on Triller who maybe, or maybe 
+
+",NA,NA,NA,NA,NA
+"245","Popcast5",65,"sure","NotParticle",NA,NA,NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"sure","JC1: -- but I would still like to write this story. 10 K Cash- 
+JC2: Not Twenty-Four K Golden, different rapper. 
+JC1: Yes and not Two K Baby. 
+JC2: Right. 
+JC1: Ten K Cash is -- I'm not even <<sure>> Ten K Cash is a rapper. I don't really know what -- he's just like -- a kid who's good on Triller who maybe, or maybe did not invent the woah who has some dance 
+
+",NA,NA,NA,NA,NA
+"246","Popcast5",66,"true","NotParticle",NA,NA,NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"true","JC1: wobbly, bottom end, like, Whoa, Whoa, Whoa. And Gecs. Kinda- 
+JC2: How many Gecs, is the Ten K Cash album? {LG} 
+JC1: Ten K gecs. It's a <<true>> story. Ten K Gecs. So, the other thing is earlier this year, I reviewed the Beastie Boys book. I was thinking a lot about like early Beastie Boys 
+
+",NA,NA,NA,NA,NA
+"247","Popcast5",67,"yeah","BehaviorAgreement","1stPerson","Present","only the mason ramsey verse",FALSE,"None",FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"yeah","CG: so long, why don't we talk about your songs list? Why don't -- why don't each of you just pick one or two songs that you feel are emblematic. 
+JC2: You guys heard of 'Old Town Road'? 
+JC1: Only the Mason Ramsey verse. 
+JC2: <<yeah>> don't pick that one. 
+JC1: {LG} 
+JC2: Though it did make your list. 
+JC1: Yes. 
+CG: We've -- we've discussed that. But what other songs would you say from your list encapsulate your year? 
+JC1: I never wrote about Sech this 
+
+",NA,NA,NA,NA,NA
+"248","Popcast5",68,"yes","ContentAgreement","OwnKnowledge","Present","it did make your list",TRUE,"None",FALSE,FALSE,"though","None","None",NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"yes","CG: don't each of you just pick one or two songs that you feel are emblematic. 
+JC2: You guys heard of 'Old Town Road'? 
+JC1: Only the Mason Ramsey verse. 
+JC2: Yeah, don't pick that one. 
+JC1: {LG} 
+JC2: Though it did make your list. 
+JC1: <<yes>> 
+CG: We've -- we've discussed that. But what other songs would you say from your list encapsulate your year? 
+JC1: I never wrote about Sech this year. He's a Panamanian reggaeton singer 
+
+",NA,NA,NA,NA,NA
+"249","Popcast5",69,"yes","ContentAgreement","1stPerson","Present","quietly the most popular",FALSE,"None",FALSE,TRUE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,"PPT",NA,NA,NA,"yes","JC1: like, took over like the La Mega -- you know, like the La Mega universe. 
+JC2: The NBA Young Boy of reggaeton? 
+JC1: {LG} 
+JC2: Quietly, the most popular. 
+JC1: <<yes>> So he had a song that was called 'Otro Trago'. There's the original version, which features Darell, who's a rapper. There's a remix that has a whole bunch of people on it, but it's super superfluous 
+
+",NA,NA,NA,NA,NA
+"250","Popcast5",70,"that's right","BehaviorAgreement","1stPerson","Present","may maybe next year i'll do a caramanica and you know",FALSE,"None",FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"right","JP: by Burna Boy. He's Nigerian, he made an album that was a contender for my top ten. And I'm still --  may- --maybe next year I'll do a Caramanica, and, you know- 
+JC1: That's <<right>> Just lump- 
+JP: Graft it on. 
+JC2: Came out later in the year. 
+JC1: -it all together, lump it all in. 
+JP: The album is about how the African diaspora is still united and diverse, 
+
+",NA,NA,NA,NA,NA
+"251","Popcast5",71,"wow","BehaviorSurprise","1stPerson","Present","when i say it it's not lying but a lot of these other saying it",FALSE,"None",FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"wow","JC1: reggaeton and I like K-pop and -- I know they're lying. I know all these people are lying. 
+CG: Who are these people? 
+JC1: First of all, I- I- I- -- when I say it, it's not lying, but a lot of these other saying it- 
+CG: <<wow>> 
+JC1: -it's lying. 
+JC2: That's the Jon Caramanica mantra. 
+JC1: Yeah, but here's the thing, a thing that I don't see people really riding for, even people who claim to ride for a lot of stuff, 
+
+",NA,NA,NA,NA,NA
+"252","Popcast5",72,"yeah","Phatic",NA,NA,NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"yeah","JC1: -- I know they're lying. I know all these people are lying. 
+CG: Who are these people? 
+JC1: First of all, I- I- I- -- when I say it, it's not lying, but a lot of these other saying it- 
+CG: Wow. 
+JC1: -it's lying. 
+JC2: That's the Jon Caramanica mantra. 
+JC1: <<yeah>> but here's the thing, a thing that I don't see people really riding for, even people who claim to ride for a lot of stuff, extremely dumb, 
+
+",NA,NA,NA,NA,NA
+"253","Popcast5",73,"mm","BehaviorAgreement","1stPerson","Present","a thing that i don't see people really riding for even people who claim to ride for a lot of stuff extremely dumb big centrist dance records",FALSE,"None",FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,"PPT",NA,NA,NA,"mm","JC1: a thing that I don't see people really riding for, even people who claim to ride for a lot of stuff, extremely dumb, big centrist dance records. 
+JC2: <<mm>> 
+CG: Oh, I know where you're going. 
+JC1: And now I picked one of my favorite songs of the year. It's called 'Sweet but Psycho', it's by Ava Max. 
+JC2: I thought 
+
+",NA,NA,NA,NA,NA
+"254","Popcast5",74,"oh","Phatic",NA,NA,NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"oh","JC1: that I don't see people really riding for, even people who claim to ride for a lot of stuff, extremely dumb, big centrist dance records. 
+JC2: Mm. 
+CG: <<oh>> I know where you're going. 
+JC1: And now I picked one of my favorite songs of the year. It's called 'Sweet but Psycho', it's by Ava Max. 
+JC2: I thought this song 
+
+",NA,NA,NA,NA,NA
+"255","Popcast5",75,"okay","ContentAgreement","OwnKnowledge","Present","it came out in twenty eighteen",FALSE,"None",FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"okay","JC1: I picked one of my favorite songs of the year. It's called 'Sweet but Psycho', it's by Ava Max. 
+JC2: I thought this song came out in twenty fifteen. 
+CG: It came out in twenty eighteen- 
+JC2: <<okay>> 
+CG: -but I let it slide. 
+JC1: Okay. Here's the thing. 
+CG: It had its impact in twenty nineteen? 
+JC1: Yes. But I bring it up because Caryn Ganz did text me and say 
+
+",NA,NA,NA,NA,NA
+"256","Popcast5",76,"okay","Phatic",NA,NA,NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"okay","JC1: my favorite songs of the year. It's called 'Sweet but Psycho', it's by Ava Max. 
+JC2: I thought this song came out in twenty fifteen. 
+CG: It came out in twenty eighteen- 
+JC2: Okay. 
+CG: -but I let it slide. 
+JC1: <<okay>> Here's the thing. 
+CG: It had its impact in twenty nineteen? 
+JC1: Yes. But I bring it up because Caryn Ganz did text me and say -- What did you say about this 
+
+",NA,NA,NA,NA,NA
+"257","Popcast5",77,"yes","Answer","1stPerson","Present","it had its impact in twenty nineteen",FALSE,"None",FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"yes","JC1: 'Sweet but Psycho', it's by Ava Max. 
+JC2: I thought this song came out in twenty fifteen. 
+CG: It came out in twenty eighteen- 
+JC2: Okay. 
+CG: -but I let it slide. 
+JC1: Okay. Here's the thing. 
+CG: It had its impact in twenty nineteen? 
+JC1: <<yes>> But I bring it up because Caryn Ganz did text me and say -- What did you say about this song? 
+CG: If -- I'm guessing that I said 
+
+",NA,NA,NA,NA,NA
+"258","Popcast5",78,"yes","BehaviorAgreement","1stPerson","Present","i'm guessing that i said 'that's a really great lady gaga song'",FALSE,"None",FALSE,TRUE,NA,NA,NA,NA,NA,FALSE,FALSE,"great","PPT",NA,NA,NA,"yes","JC1: because Caryn Ganz did text me and say -- What did you say about this song? 
+CG: If -- I'm guessing that I said 'That's a really great Lady Gaga song.' 
+JC1: <<yes>> {LG} 
+CG: There it is. 
+JC1: Though, you s- -- I think you said 'Really grateful you put a good Lady Gaga song on your list.' 
+CG: Yeah. 
+JC1: Or something like that. 
+CG: That's better! 
+JC2: I mean, this song 
+
+",NA,NA,NA,NA,NA
+"259","Popcast5",79,"yeah","ContentAgreement","OwnKnowledge","Present","you said 'really grateful you put a good lady gaga song on your list",TRUE,"None",FALSE,FALSE,"i think","Present","1st",NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"yeah","CG: that I said 'That's a really great Lady Gaga song.' 
+JC1: Yes. {LG} 
+CG: There it is. 
+JC1: Though, you s- -- I think you said 'Really grateful you put a good Lady Gaga song on your list.' 
+CG: <<yeah>> 
+JC1: Or something like that. 
+CG: That's better! 
+JC2: I mean, this song is a slammer. This is like an- 
+CG: It is. 
+JC2: -Equinox classic. And I don't even go there. 
+JC1: Yes {NI} Chris Black, who I- he- he hit 
+
+",NA,NA,NA,NA,NA
+"260","Popcast5",80,"yes","ContentAgreement","1stPerson","Present","equinox classic",FALSE,"None",FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"yes","JC1: said 'Really grateful you put a good Lady Gaga song on your list.' 
+CG: Yeah. 
+JC1: Or something like that. 
+CG: That's better! 
+JC2: I mean, this song is a slammer. This is like an- 
+CG: It is. 
+JC2: -Equinox classic. And I don't even go there. 
+JC1: <<yes>> {NI} Chris Black, who I- he- he hit me when I posted my songs list, he hit me about it. And he did not mention that it was connected to working out, but immediately I hit him 
+
+",NA,NA,NA,NA,NA
+"261","Popcast5",81,"yes","NotParticle",NA,NA,NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"yes","JC1: posted my songs list, he hit me about it. And he did not mention that it was connected to working out, but immediately I hit him back and I was just like, 'Does this go off at Soul Cycle?' And he was like <<yes>> 
+JC2: Everyone I know who goes to the gym loves this song. 
+CG: It's a great song. 
+JC1: And al- -- and also me. {LG} 
+CG: That's what made it so good. 
+JC1: So let's 
+
+",NA,NA,NA,NA,NA
+"262","Popcast5",82,"yes","ContentAgreement","1stPerson","Present","one of many",FALSE,"None",FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"yes","JC1: me. {LG} 
+CG: That's what made it so good. 
+JC1: So let's hear 'Sweet But Psycho' by the Albanian diva, Ava Max. 
+JC2: One of many. 
+JC1: <<yes>> true story. {MS} 
+CG: I 
+
+",NA,NA,NA,NA,NA
+"263","Popcast5",83,"true","NotParticle",NA,NA,NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"true","JC1: {LG} 
+CG: That's what made it so good. 
+JC1: So let's hear 'Sweet But Psycho' by the Albanian diva, Ava Max. 
+JC2: One of many. 
+JC1: Yes, <<true>> story. {MS} 
+CG: I 
+
+",NA,NA,NA,NA,NA
+"264","Popcast5",84,"no","Answer","OwnKnowledge","Present","but like december",FALSE,"None",FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"no","CG: critic 'Pazz and Jop' rules, that the song's impact happened in twenty nineteen, even though- When 
+JC1: did it actually -- what was the formal release date? 
+CG: Definitely twenty eighteen. Cause I checked it. 
+JC1: But like December? 
+CG: <<no>> I think it was actually a little bit earlier, but I think it was a slow build. 
+JC1: I'm just looking to see when it came out. Oh, it was much earlier. All right. Well, I'll have to take that L. It's not nor- -- it's not normally how I function. 
+CG: I 
+
+",NA,NA,NA,NA,NA
+"265","Popcast5",85,"oh","Phatic",NA,NA,NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"oh","JC1: the formal release date? 
+CG: Definitely twenty eighteen. Cause I checked it. 
+JC1: But like December? 
+CG: No, I think it was actually a little bit earlier, but I think it was a slow build. 
+JC1: I'm just looking to see when it came out. <<oh>> it was much earlier. All right. Well, I'll have to take that L. It's not nor- -- it's not normally how I function. 
+CG: I was -- I was going to say something to you. 
+JC1: You should have said something. 
+JC2: When did it come out? 
+JC1: The video came out August twenty-seventh, two thousand eighteen. Yeah, that was pretty 
+
+",NA,NA,NA,NA,NA
+"266","Popcast5",86,"all right","Phatic",NA,NA,NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"right","CG: Definitely twenty eighteen. Cause I checked it. 
+JC1: But like December? 
+CG: No, I think it was actually a little bit earlier, but I think it was a slow build. 
+JC1: I'm just looking to see when it came out. Oh, it was much earlier. All <<right>> Well, I'll have to take that L. It's not nor- -- it's not normally how I function. 
+CG: I was -- I was going to say something to you. 
+JC1: You should have said something. 
+JC2: When did it come out? 
+JC1: The video came out August twenty-seventh, two thousand eighteen. Yeah, that was pretty early. Okay, well. No, no, no. I'll 
+
+",NA,NA,NA,NA,NA
+"267","Popcast5",87,"well","Well",NA,"Present","no i think it was actually a little bit earlier but i think it was a slow build",FALSE,"Belief",FALSE,TRUE,NA,NA,NA,"i'll have to take that l","None",FALSE,FALSE,"slow","PPT",NA,NA,NA,"well","CG: Definitely twenty eighteen. Cause I checked it. 
+JC1: But like December? 
+CG: No, I think it was actually a little bit earlier, but I think it was a slow build. 
+JC1: I'm just looking to see when it came out. Oh, it was much earlier. All right. <<well>> I'll have to take that L. It's not nor- -- it's not normally how I function. 
+CG: I was -- I was going to say something to you. 
+JC1: You should have said something. 
+JC2: When did it come out? 
+JC1: The video came out August twenty-seventh, two thousand eighteen. Yeah, that was pretty early. Okay, well. No, no, no. I'll take that 
+
+",NA,NA,NA,NA,NA
+"268","Popcast5",88,"yeah","Phatic",NA,NA,NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"yeah","JC1: came out. Oh, it was much earlier. All right. Well, I'll have to take that L. It's not nor- -- it's not normally how I function. 
+CG: I was -- I was going to say something to you. 
+JC1: You should have said something. 
+JC2: When did it come out? 
+JC1: The video came out August twenty-seventh, two thousand eighteen. <<yeah>> that was pretty early. Okay, well. No, no, no. I'll take that out. Okay. So I, uh -- I guess I apologize to the purists who, uh, feel that shouldn't be on the list cause they're right. {LG} 
+
+",NA,NA,NA,NA,NA
+"269","Popcast5",89,"okay","Phatic",NA,NA,NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"okay","JC1: much earlier. All right. Well, I'll have to take that L. It's not nor- -- it's not normally how I function. 
+CG: I was -- I was going to say something to you. 
+JC1: You should have said something. 
+JC2: When did it come out? 
+JC1: The video came out August twenty-seventh, two thousand eighteen. Yeah, that was pretty early. <<okay>> well. No, no, no. I'll take that out. Okay. So I, uh -- I guess I apologize to the purists who, uh, feel that shouldn't be on the list cause they're right. {LG} But 
+
+",NA,NA,NA,NA,NA
+"270","Popcast5",90,"well","Phatic",NA,NA,NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"well","JC1: earlier. All right. Well, I'll have to take that L. It's not nor- -- it's not normally how I function. 
+CG: I was -- I was going to say something to you. 
+JC1: You should have said something. 
+JC2: When did it come out? 
+JC1: The video came out August twenty-seventh, two thousand eighteen. Yeah, that was pretty early. Okay, <<well>> No, no, no. I'll take that out. Okay. So I, uh -- I guess I apologize to the purists who, uh, feel that shouldn't be on the list cause they're right. {LG} But anyway, 
+
+",NA,NA,NA,NA,NA
+"271","Popcast5",91,"no","Phatic",NA,NA,NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"no","JC1: All right. Well, I'll have to take that L. It's not nor- -- it's not normally how I function. 
+CG: I was -- I was going to say something to you. 
+JC1: You should have said something. 
+JC2: When did it come out? 
+JC1: The video came out August twenty-seventh, two thousand eighteen. Yeah, that was pretty early. Okay, well. <<no>> no, no. I'll take that out. Okay. So I, uh -- I guess I apologize to the purists who, uh, feel that shouldn't be on the list cause they're right. {LG} But anyway, the song 
+
+",NA,NA,NA,NA,NA
+"272","Popcast5",94,"okay","Phatic",NA,NA,NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"okay","JC1: L. It's not nor- -- it's not normally how I function. 
+CG: I was -- I was going to say something to you. 
+JC1: You should have said something. 
+JC2: When did it come out? 
+JC1: The video came out August twenty-seventh, two thousand eighteen. Yeah, that was pretty early. Okay, well. No, no, no. I'll take that out. <<okay>> So I, uh -- I guess I apologize to the purists who, uh, feel that shouldn't be on the list cause they're right. {LG} But anyway, the song wasn't really popping until like January 
+
+",NA,NA,NA,NA,NA
+"273","Popcast5",95,"right","NotParticle",NA,NA,NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"right","JC1: August twenty-seventh, two thousand eighteen. Yeah, that was pretty early. Okay, well. No, no, no. I'll take that out. Okay. So I, uh -- I guess I apologize to the purists who, uh, feel that shouldn't be on the list cause they're <<right>> {LG} But anyway, the song wasn't really popping until like January or February. So- 
+CG: Was it -- Jon, if this was what was in your heart in twenty nineteen then that's all that matters. 
+JC1: To be fair, there were a number of other songs that I disqualified 
+
+",NA,NA,NA,NA,NA
+"274","Popcast5",96,"fair","NotParticle",NA,NA,NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"fair","JC1: that shouldn't be on the list cause they're right. {LG} But anyway, the song wasn't really popping until like January or February. So- 
+CG: Was it -- Jon, if this was what was in your heart in twenty nineteen then that's all that matters. 
+JC1: To be <<fair>> there were a number of other songs that I disqualified on tech- -- on technicalities in this- 
+JC2: And not this one? 
+JC1: No, I didn't realize the technicality existed! {LG} 
+JC2: We do not have fact-checkers. 
+JC1: No! 
+
+",NA,NA,NA,NA,NA
+"275","Popcast5",97,"no","Answer","OwnKnowledge","Present","and not this one",FALSE,"None",TRUE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"no","JC1: popping until like January or February. So- 
+CG: Was it -- Jon, if this was what was in your heart in twenty nineteen then that's all that matters. 
+JC1: To be fair, there were a number of other songs that I disqualified on tech- -- on technicalities in this- 
+JC2: And not this one? 
+JC1: <<no>> I didn't realize the technicality existed! {LG} 
+JC2: We do not have fact-checkers. 
+JC1: No! 
+JC2: In the Arts section of the New York Times. 
+JP: Or technicalities! 
+JC1: Yeah, true story. 
+JC2: JP, you got one more? 
+JP: Yeah 
+
+",NA,NA,NA,NA,NA
+"276","Popcast5",98,"no","ContentAgreement","OwnKnowledge","Present","we do not have factcheckers",FALSE,"None",TRUE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"no","JC1: be fair, there were a number of other songs that I disqualified on tech- -- on technicalities in this- 
+JC2: And not this one? 
+JC1: No, I didn't realize the technicality existed! {LG} 
+JC2: We do not have fact-checkers. 
+JC1: <<no>> 
+JC2: In the Arts section of the New York Times. 
+JP: Or technicalities! 
+JC1: Yeah, true story. 
+JC2: JP, you got one more? 
+JP: Yeah I'm -- I'm gonna go for a singer, actually, both Caramanica and I stuck in playlists with -- with different songs. 
+
+",NA,NA,NA,NA,NA
+"277","Popcast5",99,"yeah","ContentAgreement",NA,"Present","or technicalities",FALSE,"None",FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"yeah","JC1: technicalities in this- 
+JC2: And not this one? 
+JC1: No, I didn't realize the technicality existed! {LG} 
+JC2: We do not have fact-checkers. 
+JC1: No! 
+JC2: In the Arts section of the New York Times. 
+JP: Or technicalities! 
+JC1: <<yeah>> true story. 
+JC2: JP, you got one more? 
+JP: Yeah I'm -- I'm gonna go for a singer, actually, both Caramanica and I stuck in playlists with -- with different songs. 
+JC1: Mm. 
+JP: This is Angelica Garcia. 
+JC1: Oh yeah. 
+JP: Um, 
+
+",NA,NA,NA,NA,NA
+"278","Popcast5",100,"true","NotParticle",NA,NA,NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"true","JC1: technicalities in this- 
+JC2: And not this one? 
+JC1: No, I didn't realize the technicality existed! {LG} 
+JC2: We do not have fact-checkers. 
+JC1: No! 
+JC2: In the Arts section of the New York Times. 
+JP: Or technicalities! 
+JC1: Yeah, <<true>> story. 
+JC2: JP, you got one more? 
+JP: Yeah I'm -- I'm gonna go for a singer, actually, both Caramanica and I stuck in playlists with -- with different songs. 
+JC1: Mm. 
+JP: This is Angelica Garcia. 
+JC1: Oh yeah. 
+JP: Um, 
+
+",NA,NA,NA,NA,NA
+"279","Popcast5",101,"yeah","Answer","1stPerson","Present","you got one more",FALSE,"None",FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"yeah","JC1: No, I didn't realize the technicality existed! {LG} 
+JC2: We do not have fact-checkers. 
+JC1: No! 
+JC2: In the Arts section of the New York Times. 
+JP: Or technicalities! 
+JC1: Yeah, true story. 
+JC2: JP, you got one more? 
+JP: <<yeah>> I'm -- I'm gonna go for a singer, actually, both Caramanica and I stuck in playlists with -- with different songs. 
+JC1: Mm. 
+JP: This is Angelica Garcia. 
+JC1: Oh yeah. 
+JP: Um, 'Jicama'. 
+JC1: Yup. 
+JP: It's a song about 
+
+",NA,NA,NA,NA,NA
+"280","Popcast5",102,"mm","ContentAgreement","OwnKnowledge","Present","both caramanica and i stuck in playlists with  with different songs",FALSE,"None",FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"mm","JC2: the Arts section of the New York Times. 
+JP: Or technicalities! 
+JC1: Yeah, true story. 
+JC2: JP, you got one more? 
+JP: Yeah I'm -- I'm gonna go for a singer, actually, both Caramanica and I stuck in playlists with -- with different songs. 
+JC1: <<mm>> 
+JP: This is Angelica Garcia. 
+JC1: Oh yeah. 
+JP: Um, 'Jicama'. 
+JC1: Yup. 
+JP: It's a song about being a bicultural immigrant. I just think the way the -- its rhythms rev up at the end 
+
+",NA,NA,NA,NA,NA
+"281","Popcast5",103,"oh yeah","BehaviorAgreement","1stPerson","Present","this is angelica garcia",FALSE,"None",FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"oh","JC1: Yeah, true story. 
+JC2: JP, you got one more? 
+JP: Yeah I'm -- I'm gonna go for a singer, actually, both Caramanica and I stuck in playlists with -- with different songs. 
+JC1: Mm. 
+JP: This is Angelica Garcia. 
+JC1: <<oh>> yeah. 
+JP: Um, 'Jicama'. 
+JC1: Yup. 
+JP: It's a song about being a bicultural immigrant. I just think the way the -- its rhythms rev up at the end is just a joy. 
+JC1: Let's 
+
+",NA,NA,NA,NA,NA
+"282","Popcast5",105,"yeah","Phatic",NA,NA,NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"yeah","JC1: That is our show. That was twenty nineteen. And apparently a little bit of twenty eighteen. {LG} 
+JC2: Not just Bad Bunny. 
+JC1: So <<yeah>> So, we all learned something today. I learned that 'Sweet But Psycho' came out in mid to late twenty eighteen. So, that's uh very humbling. 
+CG: And all my lists are T B D. I still have to make 
+
+",NA,NA,NA,NA,NA
+"283","Popcast5",106,"sure","NotParticle",NA,NA,NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"sure","CG: make them. 
+JP: But -- but you should, uh, announce your number one. 
+CG: I, actually, I did mention it on the Grammy's Popcast too. Now I'm going to sound like I'm obsessed, but the Sharon van Etten album. Number one. Billie Eilish, probably number two. I'm building 
+JC1: it from there. You <<sure>> It's two -- still two weeks left. You don't know --  what, you're not going to put the Harry styles record on? See, that's the thing, like something like the Harry Styles record, the Camilla record. 
+CG: Eh, those records aren't going on the list. 
+JC2: I just got a D M from someone that I'll read on the 
+
+",NA,NA,NA,NA,NA
+"284","Popcast5",107,"mm","BehaviorAgreement","1stPerson","Present","i just got a d m from someone that i'll read on the air",FALSE,"None",FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"mm","JC1: -- still two weeks left. You don't know --  what, you're not going to put the Harry styles record on? See, that's the thing, like something like the Harry Styles record, the Camilla record. 
+CG: Eh, those records aren't going on the list. 
+JC2: I just got a D M from someone that I'll read on the air. 
+JC1: <<mm>> 
+JC2: Someone I don't know that says 'The girls need to know your thoughts on the new Harry Styles album.' I will say, I have not listened to it- 
+CG: I have. 
+JC2: But I will eventually. 
+JC1: I thought J P- 
+JC2: I 
+
+",NA,NA,NA,NA,NA
+"285","Popcast5",108,"no","ContentDisagreement","1stPerson","Present","you don't love it when we say that i will catch up on harry styles",FALSE,"None",TRUE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"no","JC2: need to know your thoughts on the new Harry Styles album.' I will say, I have not listened to it- 
+CG: I have. 
+JC2: But I will eventually. 
+JC1: I thought J P- 
+JC2: I know, Caryn, you don't love it when we say that, I will catch up on Harry Styles. 
+CG: <<no>> no, no, that's fine, that's not a problem. 
+JC2: It's been a busy month. 
+JC1: I also -- J P wrote a very, very solid and thorough double review of Harry and Camilla. Finding 
+
+",NA,NA,NA,NA,NA
+"286","Popcast5",111,"that's fine","Phatic",NA,NA,NA,FALSE,NA,FALSE,FALSE,NA,NA,NA,NA,NA,FALSE,FALSE,NA,NA,NA,NA,NA,"fine","JC2: thoughts on the new Harry Styles album.' I will say, I have not listened to it- 
+CG: I have. 
+JC2: But I will eventually. 
+JC1: I thought J P- 
+JC2: I know, Caryn, you don't love it when we say that, I will catch up on Harry Styles. 
+CG: No, no, no, that's <<fine>> that's not a problem. 
+JC2: It's been a busy month. 
+JC1: I also -- J P wrote a very, very solid and thorough double review of Harry and Camilla. Finding common threads 
+
+",NA,NA,NA,NA,NA
+"287","Popcast5",112,"mm","ContentAgreement","1stPerson","Present","it's still sad that harry styles hasn't written a  as good a song as taylor swift wrote about him",TRUE,"None",FALSE,TRUE,"i think","Present","1st",NA,NA,FALSE,FALSE,NA,"PPT",NA,NA,NA,"mm","JP: Harry Styles album. 
+JC1: But for twenty twenty's list, not for twenty nineteen. 
+CG: I- I think it's still sad that Harry Styles hasn't written a -- as good a song as Taylor Swift wrote about him. 
+JC2: <<mm>> 
+JC1: I think it's that Harry styles hasn't had as good a song as like seven, um, One Direction songs. So, like, let's just keep it a buck. 
+CG: Fine. 
+JC1: That's our show. Listen to every 
+
+",NA,NA,NA,NA,NA
+"288","Popcast5",113,"fine","ContentAgreement","1stPerson","Present","harry styles hasn't had as good a song as like seven um one direction songs",TRUE,"None",FALSE,TRUE,"i think it's that","Present","1st",NA,NA,FALSE,FALSE,"good","PPT",NA,NA,NA,"fine","CG: good a song as Taylor Swift wrote about him. 
+JC2: Mm. 
+JC1: I think it's that Harry styles hasn't had as good a song as like seven, um, One Direction songs. So, like, let's just keep it a buck. 
+CG: <<fine>> 
+JC1: That's our show. Listen to every Popcast ever at N Y times dot com slash popcast. Email us your albums of the year or your songs of the year. Tell me what other songs that I like 
+
+",NA,NA,NA,NA,NA

@@ -1,0 +1,337 @@
+---
+title: "AnnotatedPopcast"
+date: "8/4/2020"
+output: html_document
+---
+
+```{r imports}
+library(tidyverse)
+library(jsonlite)
+
+PopcastJSON <- fromJSON("popcast.json", flatten = TRUE) %>% 
+  unnest(
+    c(tags.Antecedent,
+      tags.Embedder,
+      tags.Particle,
+      tags.Comment,
+      tags.SubjectivePred,
+      tags.OvertExperiencer),
+    .sep=".")
+
+PopcastRegions <- fromJSON("regionText.json") %>%
+  rename(region = "regionid", dir = "regiondir",fullText = "text") %>%
+  mutate(region = as.numeric(str_extract(region,"\\d+")),
+         dir = str_extract(dir,"Popcast\\d")) 
+
+# RDPs <- c("yes",
+# "yeah",
+# "yep",
+# "okay",
+# "fine",
+# "right",
+# "sure",
+# "truly",
+# "absolutely",
+# "uh-huh",
+# "mm",
+# "mhm",
+# "no",
+# "nope",
+# "nah",
+# "uh-uh",
+# "wow",
+# "oh",
+# "fair",
+# "well",
+# "wait",
+# "agree",
+# "agrees",
+# "disagree",
+# "disagree",
+# "wrong",
+# "true",
+# "false",
+# "interesting")
+
+# RawPopcastAudio <- read.delim("PopcastAudio.txt", header = TRUE, na.strings = "--undefined--", fileEncoding='UCS-2LE') %>%
+#   rename(Speaker = "Tier") %>%
+#   select(Filename, Speaker, Word, F0, Start, End, Duration) %>%
+#   mutate(Filename = factor(Filename),
+#          Speaker = factor(Speaker),
+#          Word = factor(Word))
+# 
+# PopcastAudio <- RawPopcastAudio %>%
+#   filter(Word %in% RDPs) %>%
+#   group_by(Filename) %>% arrange(Start,.by_group = TRUE) %>% ungroup()
+# 
+# write_csv(PopcastAudio,"PopcastAudio.csv")
+
+PopcastAudio <- read.csv("PopcastAudioClean.csv",header=TRUE) %>%
+  rename(region = "Region",
+         dir = "Filename") %>%
+  select(-Word)
+
+Popcast <- PopcastJSON %>%  
+  select(dir,region=lineNo,annotator,
+         text = tags.Particle.text, 
+         discRole = tags.Particle.attribs.DiscRole,
+         evBasis = tags.Particle.attribs.EvBasis,
+         antPres = tags.Particle.attribs.AntPresence,
+         antText = tags.Antecedent.text,
+         antEmbed = tags.Antecedent.attribs.Embedded,
+         antMod = tags.Antecedent.attribs.Modality,
+         antNeg = tags.Antecedent.attribs.Negative,
+         antSubj = tags.Antecedent.attribs.Subjective,
+         emb = tags.Embedder.text,
+         embTense = tags.Embedder.attribs.Tense,
+         embSubj = tags.Embedder.attribs.Subject,
+         comText = tags.Comment.text,
+         comMod = tags.Comment.attribs.Modality,
+         comNeg = tags.Comment.attribs.Negative,
+         comSubj = tags.Comment.attribs.Subjective,
+         subjPred = tags.SubjectivePred.text,
+         subjPredType = tags.SubjectivePred.attribs.SubjPredType,
+         ovExp = tags.OvertExperiencer.text,
+         ovExpExp = tags.OvertExperiencer.attribs.Experiencer,
+         ovExpInt = tags.OvertExperiencer.attribs.Introducer) %>%
+  mutate(dir = factor(dir),
+         region = as.numeric(str_extract(region,"\\d+")),
+         annotator = factor(annotator),
+         text = text %>% str_to_lower() %>% str_trim() %>% str_remove_all("[<>?.,!:;-]"),
+         discRole = factor(discRole),
+         evBasis = factor(evBasis),
+         antText = antText %>% str_to_lower() %>% str_trim() %>% str_remove_all("[<>?.,!:;-]"),
+         antPres = factor(antPres),
+         antEmbed = if_else(is.na(antEmbed),FALSE,TRUE),
+         antMod = factor(antMod),
+         antNeg = if_else(is.na(antNeg),FALSE,TRUE),
+         antSubj = if_else(is.na(antSubj),FALSE,TRUE),
+         emb = emb %>% str_to_lower() %>% str_trim() %>% str_remove_all("[<>?.,!:;-]"),
+         embTense = factor(embTense),
+         embSubj = factor(embSubj),
+         comText = comText %>% str_to_lower() %>% str_trim() %>% str_remove_all("[<>?.,!:;-]"),
+         comMod = factor(comMod),
+         comNeg = if_else(is.na(comNeg),FALSE,TRUE),
+         comSubj = if_else(is.na(comSubj),FALSE,TRUE),
+         subjPred = subjPred %>% str_to_lower() %>% str_trim() %>% str_remove_all("[<>?.,!:;-]"),
+         subjPredType = factor(subjPredType),
+         ovExp = ovExp %>% str_to_lower() %>% str_trim() %>% str_remove_all("[<>?.,!:;-]"),
+         ovExpExp = factor(ovExpExp),
+         ovExpInt = factor(ovExpInt)) %>%
+  left_join(PopcastRegions, by=c("dir","region")) %>%
+  left_join(PopcastAudio, by=c("dir","region"))
+
+summary(Popcast)
+write.csv(Popcast,"allPopcast.csv",row.names = FALSE)
+```
+
+```{r gold}
+
+PopcastGold <- Popcast %>% group_by(dir,region) %>%
+  mutate(text = replace(text, n_distinct(text)>1, NA),
+         discRole = replace(discRole, n_distinct(discRole)>1, NA),
+         evBasis = replace(evBasis, n_distinct(discRole)>1, NA),
+         antPres = replace(antPres, n_distinct(antPres)>1, NA),
+         antText = replace(antText, n_distinct(antText)>1, NA),
+         antEmbed = replace(antEmbed, n_distinct(antEmbed)>1, NA),
+         antMod = replace(antMod, n_distinct(antMod)>1,NA),
+         antNeg = replace(antNeg, n_distinct(antNeg)>1,NA),
+         antSubj = replace(antSubj, n_distinct(antSubj)>1,NA),
+         emb = replace(emb, n_distinct(emb)>1,NA),
+         embTense = replace(embTense, n_distinct(embTense)>1,NA),
+         embSubj = replace(embSubj, n_distinct(embSubj)>1,NA),
+         comText = replace(comText, n_distinct(comText)>1,NA),
+         comMod = replace(comMod, n_distinct(comMod)>1,NA),
+         comNeg = replace(comNeg,n_distinct(comNeg)>1,NA),
+         comSubj = replace(comSubj,n_distinct(comSubj)>1,NA),
+         subjPred = replace(subjPred,n_distinct(subjPred)>1,NA),
+         subjPredType = replace(subjPredType,n_distinct(subjPredType)>1,NA),
+         ovExp = replace(ovExp,n_distinct(ovExp)>1,NA),
+         ovExpExp = replace(ovExpExp,n_distinct(ovExpExp)>1,NA),
+         ovExpInt = replace(ovExpInt,n_distinct(ovExpInt)>1,NA)) %>%
+  summarize(text = first(na.omit(text)),
+            discRole = first(na.omit(discRole)),
+            evBasis = first(na.omit(evBasis)),
+            antPres = first(na.omit(antPres)),
+            antText = first(na.omit(antText)),
+            antEmbed = first(na.omit(antEmbed)),
+            antMod = first(na.omit(antMod)),
+            antNeg = first(na.omit(antNeg)),
+            antSubj = first(na.omit(antSubj)),
+            emb = first(na.omit(emb)),
+            embTense = first(na.omit(embTense)),
+            embSubj = first(na.omit(embSubj)),
+            comText = first(na.omit(comText)),
+            comMod = first(na.omit(comMod)),
+            comNeg = first(na.omit(comNeg)),
+            comSubj = first(na.omit(comSubj)),
+            subjPred = first(na.omit(subjPred)),
+            subjPredType = first(na.omit(subjPredType)),
+            ovExp = first(na.omit(ovExp)),
+            ovExpExp = first(na.omit(ovExpExp)),
+            ovExpInt = first(na.omit(ovExpInt))
+            ) %>%
+  left_join(PopcastRegions, by=c("dir","region")) %>%
+  left_join(PopcastAudio, by=c("dir","region"))
+
+write.csv(PopcastGold,"PopcastGold.csv")
+```
+
+```{r q1}
+
+yeahs <- PopcastGold %>% filter(text == "yeah" & !is.na(discRole))
+
+yeahSumm <- yeahs %>% group_by(discRole) %>% summarize(Count = n(), Freq = Count/nrow(yeahs))
+
+yeahSumm
+```
+
+```{r q2}
+
+contAgrs <- PopcastGold %>% filter(discRole == "ContentAgreement")
+
+contAgrParticles <- contAgrs %>% group_by(text) %>% summarize(Count = n(), Freq = Count/nrow(contAgrs)) %>% arrange(-Freq)
+
+behavAgrs <- PopcastGold %>% filter(discRole == "BehaviorAgreement")
+
+behavAgrParticles <- behavAgrs %>% group_by(text) %>% summarize(Count = n(), Freq = Count/nrow(behavAgrs)) %>% arrange(-Freq)
+
+answers <- PopcastGold %>% filter(discRole == "Answer")
+
+answerParticles <- answers %>% group_by(text) %>% summarize(Count = n(), Freq = Count/nrow(answers)) %>% arrange(-Freq)
+
+contAgrParticles
+behavAgrParticles
+answerParticles
+
+```
+
+```{r q3}
+
+mhms <- PopcastGold %>% filter(text %in% c("mm","mhm"))
+
+```
+
+```{r q4}
+
+generalRoles <- PopcastGold %>% group_by(discRole) %>% summarize(Count = n(), Freq = Count/nrow(PopcastGold)) %>% arrange(-Freq)
+generalRoles
+
+subjAnts <- PopcastGold %>% filter(antSubj) %>% filter(!is.na(text))
+
+subjAntRoles <- subjAnts %>% group_by(discRole) %>% summarize(Count = n(), Freq = Count/nrow(subjAnts)) %>% arrange(-Freq)
+subjAntRoles
+
+objAnts <-  PopcastGold %>% filter(antPres == "Present" & antSubj == FALSE) %>% filter(!is.na(text))
+
+objAntRoles <- objAnts %>% group_by(discRole) %>% summarize(Count = n(), Freq = Count/nrow(objAnts)) %>% arrange(-Freq)
+objAntRoles
+
+objAntParticles <- objAnts %>% group_by(text) %>% summarize(Count = n(), Freq = Count/nrow(objAnts)) %>% arrange(-Freq)
+objAntParticles
+
+subjAntParticles <- subjAnts %>% group_by(text) %>% summarize(Count = n(), Freq = Count/nrow(subjAnts)) %>% arrange(-Freq)
+subjAntParticles
+
+```
+
+```{r q5}
+
+yeahsCB <- yeahs %>% filter(discRole %in% c("ContentAgreement","BehaviorAgreement"))
+
+yeahsCBmeans <- yeahsCB %>%
+  group_by(discRole) %>% summarize(meanF0 = mean(F0, na.rm = TRUE), meanDur = mean(Duration, na.rm = TRUE),
+                                   medF0 = median(F0, na.rm = TRUE), medDur = median(Duration, na.rm = TRUE))
+yeahsCBmeans
+
+yeahsPlot <- ggplot(yeahsCB, aes(x = Duration, y = F0, col = discRole)) +
+  geom_point() + 
+  labs(title = "Utterances of yeah by discourse role", x = "Duration (ms)", y = "Pitch (Hz)", col = "Discourse Role")
+
+yeahsCA <- yeahs %>% filter(discRole %in% c("ContentAgreement","Answer"))
+
+yeahsCAmeans <- yeahsCA %>%
+  group_by(discRole) %>% summarize(meanF0 = mean(F0, na.rm = TRUE), meanDur = mean(Duration, na.rm = TRUE),
+                                   medF0 = median(F0, na.rm = TRUE), medDur = median(Duration, na.rm = TRUE))
+yeahsCAmeans
+
+yeahsPlot2 <- ggplot(yeahsCA, aes(x = Duration, y = F0, col = discRole)) +
+  geom_point() + 
+  labs(title = "Utterances of yeah by discourse role", x = "Duration (ms)", y = "Pitch (Hz)", col = "Discourse Role")
+yeahsPlot2
+```
+
+```{r q6}
+
+allCB <- PopcastGold %>% filter(discRole %in% c("ContentAgreement","BehaviorAgreement"))
+
+allCBmeans <- allCB %>%
+  group_by(discRole) %>% summarize(meanF0 = mean(F0, na.rm = TRUE), meanDur = mean(Duration, na.rm = TRUE),
+                                   medF0 = median(F0, na.rm = TRUE), medDur = median(Duration, na.rm = TRUE))
+allCBmeans
+
+allCBPlot <- ggplot(allCB, aes(x = Duration, y = F0, col = discRole)) +
+  geom_point() + 
+  labs(title = "Particles by discourse role", x = "Duration (ms)", y = "Pitch (Hz)", col = "Discourse Role")
+allCBPlot
+
+allCA <- PopcastGold %>% filter(discRole %in% c("ContentAgreement","Answer"))
+
+allCAmeans <- allCA %>%
+  group_by(discRole) %>% summarize(meanF0 = mean(F0, na.rm = TRUE), meanDur = mean(Duration, na.rm = TRUE),
+                                   medF0 = median(F0, na.rm = TRUE), medDur = median(Duration, na.rm = TRUE))
+allCAmeans
+
+allCAPlot <- ggplot(allCA, aes(x = Duration, y = F0, col = discRole)) +
+  geom_point() + 
+  labs(title = "Particles by discourse role", x = "Duration (ms)", y = "Pitch (Hz)", col = "Discourse Role")
+allCAPlot
+
+```
+
+```{r q7}
+
+subjVobj <- PopcastGold %>% filter(discRole == "ContentAgreement" & antPres == "Present" & !is.na(antSubj))
+
+subjVobjSumm <- subjVobj %>%
+  group_by(antSubj) %>% summarize(meanF0 = mean(F0, na.rm=TRUE), meanDuration = mean(Duration, na.rm=TRUE))
+subjVobjSumm
+
+sOplot <- ggplot(subjVobj, aes(x = Duration, y = F0, col = antSubj)) +
+  geom_point() +
+  labs(title = "Particles by subjectivity of antecedent", x = "Duration (ms)", y = "Pitch (Hz)", col = "Subjectivity of antecedent")
+
+```
+
+```{r q8}
+mostCommonParticles <- PopcastGold %>% filter(!is.na(text)) %>% group_by(text) %>% summarize(Count = n(), Freq = Count/nrow(PopcastGold)) %>%
+  arrange(-Freq)
+
+```
+
+```{r q9}
+
+pbcVSelse <- PopcastGold %>% filter(discRole %in% c("Phatic", "Backchannel", "ContentAgreement", "BehaviorAgreement", "Answer")) %>%
+  mutate(Basic = if_else(discRole %in% c("Phatic", "Backchannel"), "Meaningless", "Meaningful"))
+pbcVSelse
+
+meaningless <- pbcVSelse %>% filter(Basic == "Meaningless")
+  
+meaninglessSumm <- meaningless %>% group_by(text) %>% summarize(Count = n(), Freq = Count/nrow(meaningless)) %>% arrange(-Freq)
+meaninglessSumm
+
+meaningful <- pbcVSelse %>% filter(Basic == "Meaningful")
+  
+meaningfulSumm <- meaningful %>% group_by(text) %>% summarize(Count = n(), Freq = Count/nrow(meaningful)) %>% arrange(-Freq)
+meaningfulSumm
+
+pbcVSelseSumm <- pbcVSelse %>% group_by(Basic) %>% summarize(meanF0 = mean(F0, na.rm=TRUE), meanDur = mean(Duration, na.rm=TRUE))
+pbcVSelseSumm
+
+pbcVSelsePlot <- ggplot(pbcVSelse, aes(x = Duration, y = F0, col = Basic)) +
+  geom_point() +
+  labs(title = "Particle acoustics by meaning level", x = "Duration (ms)", y = "Pitch (Hz)", col = "Meaning level")
+
+```
+
+
